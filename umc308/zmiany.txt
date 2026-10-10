@@ -1,0 +1,68 @@
+# UMC-308 (system) - co sie zmienilo. Najnowszy wpis na gorze.
+# Pierwsza linie wpisu megabuilder.py przepisuje do `zmiany=` w system.txt.
+
+2026-10-09  maszyna dekoduje WebP i ma wspolny schowek dla programow
+  - webp.lua: dekoder WebP w czystym Lua (VP8L bezstratny, VP8 stratny, kanal alfa), wynik identyczny z libwebp - testy/test_webp.lua
+  - plp.newImage / plp.newImageData czytaja .webp; drugi argument { maks = N } podnosi limit wymiarow do 2048 px (przegladarka obrazkow), domyslnie dalej 256
+  - plp.schowek() / plp.schowek(tekst): jeden schowek dla wszystkich programow, zsynchronizowany ze schowkiem gospodarza (limit 1 MB)
+
+2026-10-09  kolejka sieciowa szybsza ok. 2,5x: dwa roboty, paczki zlecen jednym curl-em, limit zlecen na program
+  - transport.pobierzPaczke: kilka krotkich zlecen jednym procesem curl (bloki `next`, jedno polaczenie/TLS); nieudane z paczki powtarzane osobno; konfiguracja curl i zbieranie wyniku wydzielone z pobierzRaz
+  - kolejka: ROBOTOW = 2 (dlugie pobranie nie blokuje reszty), robot bierze od razu to, co czeka, i wysyla paczka; pad dowolnego robota = zlecenia koncza sie bledem
+  - bramka: najwyzej 12 zwyklych zlecen w drodze na program (MAKS_NA_WLASCICIELA)
+  - serwer skrzynki czatu: HTTP/1.1 keep-alive; czat: podpis zadania ~2x szybszy (zapamietany klucz publiczny), cicha rozmowa pytana rzadziej
+
+2026-10-09  ogolny HTTP w module sieciowym: plp.siecZlec umie PUT/POST/DELETE, cialo i naglowki (zapis tylko pod serwery z listy siec_serwery)
+  - nowe ustawienie siec_serwery (host:port[~PIN]); PIN klucza certyfikatu bierze maszyna z listy, program go nie podaje; plp.siecSerwery() zwraca same adresy
+  - bramka.lua: zapis(), serwery(), serwerDla(); sandbox: walidacja metody, ciala (64 KB) i naglowkow (Host, Cookie, Content-Length... tylko maszyna)
+  - usuniete: czat_skrzynka.lua, czat_krypto.lua, plp.czatSkrzynka*, ustawienia czat_skrzynka i czat_serwery, wlasciciel @czat w bramce, podpisywanie w podpis.lua; skrzynke czatu prowadzi aplikacja
+
+2026-10-09  piaskownica udostepnia `bit`; kryptografia czatu przeniesiona do aplikacji
+  - env.bit (kopia biblioteki LuaJIT) i require("bit"): szyfr w interpreterze dziala bez JIT-a (watchdog wymaga jit.off, a z JIT-em hook sie nie odpala)
+  - plp.losowe(n): losowe bajty z jadra dla programow; znikaja plp.czatTozsamosc/Podpisz/Sprawdz/Losuj/Szyfruj/Otworz i czat_host.lua - czat ma wlasne krypto.lua i ed25519.lua
+
+2026-10-08  skrzynka CZAT-a: plp.czatSkrzynka* (zapis, pobranie i kasowanie zaszyfrowanych ramek na serwerze dla nieobecnych)
+  - czat_skrzynka.lua: maszyna wyprowadza z klucza pokoju id skrzynki i klucz Ed25519, podpisuje zadania i oddaje wyniki asynchronicznie; tylko program `czat`
+  - nowe ustawienia czat_skrzynka (domyslnie nie) i czat_serwery (lista host:port[~PIN]); ruch przez bramke jako @czat, niezaleznie od `internet`
+  - transport.lua: metoda DELETE
+  - domyslny czat_serwery: oficjalna skrzynka na frog03 (nic nie wychodzi bez `ustaw czat_skrzynka tak`)
+
+2026-10-08  PANEL napisany od nowa; piaskownica wystawia Wi-Fi i Bluetooth, siec w tle, odswiezanie sterownikow zakresowe
+  - plp.siecAkcja przekazuje adres, brame, DNS oraz siec i haslo (wczesniej gubila wszystko poza pierwszym argumentem - reczny adres i Wi-Fi z panelu dostawaly puste napisy)
+  - plp.siecWifi, plp.bluetoothLista, plp.bluetoothAkcja: maszyna je miala, ale piaskownica ich nie wystawiala - zakladka BLUETOOTH i lista sieci Wi-Fi w panelu byly martwe
+  - plp.siecAkcjaWTle / plp.siecAkcjaWynik: czynnosci sieciowe pomocnika zlecane w tle (ekran nie stoi do pol minuty); wynik zadania odbiera program, nie czuwanie
+  - plp.sterowniki(zakres): opcjonalna lista grup ("siec", "dysk", "nosniki", "ekran", "dzwiek", "czas", "klawiatura", "internet"); bez zakresu wszystko jak dawniej, flagi mozliwosci zawsze
+  - network.lua: ustawStaly, ustawDhcp, resetuj, polaczWifi, zapomnijWifi przyjmuja `wTle` (jak polacz)
+  - panel: ikony zakladek z plakietkami, przelaczniki i suwaki, szczegoly pozycji, wyszukiwanie (/), cofanie (U), wartosc domyslna, skojarzenia i aliasy z dodawaniem i edycja, mysz
+
+2026-10-07  repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+  - spis.txt: opis= i ikona= repozytorium w naglowku, ikona= programu w bloku (sumy pod podpisem spisu)
+  - tworcy.txt: tozsamosc tworcy pod KLUCZEM JAWNYM (moze miec kilka kluczy); z listy Martep-Flumen to pewnik, z innej "wg repo"
+  - dwa klucze jednej oficjalnej tozsamosci to ten sam tworca - wymiana klucza nie jest "innym tworca"
+  - ikony z repozytoriow tylko .iko, tylko zgodne z suma, w pamieci adresowanej suma (dysk/system/chili/ikony)
+  - plp.siecPostep(numer): ile bajtow wlasnego zlecenia juz przyszlo (pasek postepu w programach)
+  - spisy i listy czytane z dysku raz, dopoki sie nie zmienia - stan i katalog nie miela plikow przy kazdym pytaniu
+
+2026-10-07  programy systemowe (menedzer, panel, pliki) maja minimum uprawnien, ktorego nie da sie odebrac; MENEDZER napisany od nowa
+  - minimum tylko dla paczek tworcy maszyny (podpis wydania albo ta sama paczka co w wydaniu); obca paczka o tej nazwie nie dostaje nic
+  - menedzer: ikony praw, przelaczniki, zakladki PRAWA / PLIKI / HISTORIA; szkic zapisywany jednym S; zalecenia tworcy zawsze widoczne (gwiazdka)
+  - pliki jako RODZAJE (muzyka, obrazy, teksty...) z poziomem dostepu strzalkami - bez wpisywania rozszerzen
+  - prosba, wybory i pytania w oknach z przyciskami; HISTORIA odmow z gotowa naprawa pod ENTER
+  - opcja ikon programow: 16x16 z kompresji (domyslnie), natywne, bez ikon
+
+2026-10-07  uprawnienia programow: program prosi w paczce, zgode daje uzytkownik; nowy program MENEDZER i komenda uprawnienia
+  - miedzy "caly dysk" a "wlasny katalog" sa reguly na rozszerzenia plikow (czytaj / zapisz / kasuj) w /dysk/dokumenty i /wymiana
+  - osobne prawa: dysk, internet, port, exec, instalacja, powloka, ustawienia, sieci; uprawnienia przypiete do nazwy I klucza tworcy
+  - zainstaluj i CHILIUPDATER pytaja o zgode; aktualizacja, ktora prosi o wiecej, czeka na odpowiedz
+  - piaskownica uszczelniona: love.filesystem i konstruktory z nazwa pliku widza tylko paczke i wlasna szuflade; loadstring/load w srodowisku programu
+  - UWAGA dla programow spoza wydania: internet, port i uruchamianie innych programow wymagaja teraz zgody (zainstalowane wczesniej zachowuja je)
+
+2026-10-07  aktualizacja doinstalowuje brakujace pakiety sterownikow (np. wireguard-tools); repozytorium, ktore nie odpowiada, konczy sie komunikatem zamiast "aktualne"
+  - pakiety.txt w wydaniu + czasownik gospodarz-pakiety (apt-get w tle, wynik w powloce)
+  - aktualizuj sprawdz / aktualizuj system / panel: NIE SPRAWDZONO, gdy repozytorium milczy
+
+2026-10-07  aktualizacja systemu odswieza tez pliki gospodarza (pomocnik roota, jednostki, rozruch); ustawienia fabryczne: komenda fabryczny i panel
+  - fizyczna maszyna: po starcie z nowego wydania root sprawdza jego podpis i instaluje pliki z drivers/linux/debian (aktualizuj gospodarz)
+  - fabryczny: zostaje system i programy systemowe, reszta dysku znika; na fizycznej maszynie nowe klucze hosta SSH, usuniete klucze wejsciowe, zapomniane sieci
+
+2026-10-02  aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER

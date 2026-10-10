@@ -1,0 +1,2549 @@
+# CHILIUPDATER - spis repozytorium. Edytuj recznie albo megabuilder.py.
+# Blok na wersje: [nazwa], kategoria=, wymaga=, tytul=, opis=,
+# zbudowano=, plik=, zmiany=
+tytul=Pracownia K-200
+ikona=repo.iko
+ikona_sha256=7f26f1e2d34e66469b8f6264f6d24c4b68960752d944043f19d60af8a0432346
+
+[arkusz]
+kategoria=APLIKACJE
+tytul=ARKUSZ
+opis=mini arkusz kalkulacyjny
+zbudowano=2026-10-02 15:43:17
+plik=arkusz/arkusz_20261002154317.plp
+
+rozmiar=19084
+sha256=a111cd9a75e7d9828ba163f3a296ce54349408ecc3f71c617d426ab69d6d4da9
+
+[budzet]
+kategoria=APLIKACJE
+tytul=BUDZET
+opis=ksiega przychodow i wydatkow
+zbudowano=2026-10-02 15:43:18
+plik=budzet/budzet_20261002154318.plp
+
+rozmiar=16174
+sha256=ead2af33cbb1aa717e18fba5ce5f430068b3c271c887e1bc06e802ceb68d08ac
+
+[chili]
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-02 15:43:18
+plik=chili/chili_20261002154318.plp
+zmiany=pierwsze wydanie: sprawdzanie repozytoriow, aktualizacja, wycofanie, dziennik
+
+rozmiar=20856
+sha256=ddc07e8d09e9a8615f036ff2e0daa8734722ddb9460a29dbf0ab0fed71ab2b5d
+
+[chopin]
+kategoria=APLIKACJE
+tytul=CHOPIN
+opis=edytor muzyki MIDI
+zbudowano=2026-10-02 15:43:18
+plik=chopin/chopin_20261002154318.plp
+
+rozmiar=106684
+sha256=9158cbf07adb805c7d28e5b4fc35b301deec42583899dd648f4f9f157e660afc
+
+[diagnostyka]
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=testy podzespolow
+zbudowano=2026-10-02 15:43:19
+plik=diagnostyka/diagnostyka_20261002154319.plp
+
+rozmiar=22260
+sha256=67af11721fdbced85900093c9004bec4c2dfce0338d2d7f3bce95cb94b87bea0
+
+[glify]
+kategoria=APLIKACJE
+tytul=GLIFY
+opis=edytor bitmap 8x8/16x16
+zbudowano=2026-10-02 15:43:19
+plik=glify/glify_20261002154319.plp
+
+rozmiar=41513
+sha256=55a2d137ec16b7212a39571e6b7fe3ee061c636377ae497393660510d5dd1953
+
+[kalkulator]
+kategoria=APLIKACJE
+tytul=KALKULATOR
+opis=kalkulator
+zbudowano=2026-10-02 15:43:19
+plik=kalkulator/kalkulator_20261002154319.plp
+
+rozmiar=17042
+sha256=c7914a850a71a53044af75103d5ad552c3b533505306f285803a3e6705d22dd5
+
+[kartoteka]
+kategoria=APLIKACJE
+tytul=KARTOTEKA
+opis=generyczna baza rekordow
+zbudowano=2026-10-02 15:43:19
+plik=kartoteka/kartoteka_20261002154319.plp
+
+rozmiar=16810
+sha256=19521757440020cb0dd8423ea35fdf02ef2850fb764c14fa0c63dde8719e0546
+
+[komandor]
+kategoria=SYSTEMOWE
+tytul=KOMANDOR
+opis=dwupanelowy menedzer plikow
+zbudowano=2026-10-02 15:43:20
+plik=komandor/komandor_20261002154320.plp
+
+rozmiar=22850
+sha256=a32208bcdfeeac1d9e05da98d6e44126187d956ed8799014bd8d35de172530bb
+
+[kosci]
+kategoria=APLIKACJE
+tytul=KOSCI
+opis=kosci, tabele mistrza gry, moneta, karta postaci i tracker walki
+zbudowano=2026-10-02 15:43:20
+plik=kosci/kosci_20261002154320.plp
+
+rozmiar=30963
+sha256=757ab3cba86ddeec2306a52324f618e5ab0f357a4cf85a37b51429a88334e175
+
+[menu]
+kategoria=SYSTEMOWE
+tytul=MENU
+opis=wybor programow
+zbudowano=2026-10-02 15:43:21
+plik=menu/menu_20261002154321.plp
+
+rozmiar=15374
+sha256=1bc2dc076179fb3534bbe2a2dcab4351f83e890924c9cf5b1eb2e8bbbaa91bdc
+
+[morse]
+kategoria=APLIKACJE
+tytul=MORSE
+opis=koder i trener alfabetu Morse'a
+zbudowano=2026-10-02 15:43:21
+plik=morse/morse_20261002154321.plp
+
+rozmiar=16037
+sha256=9ea0d1a5075d8f151d76333ee84a5e44682292036db6e639111a6bbdaa4b82de
+
+[muzyka]
+kategoria=APLIKACJE
+tytul=MUZYKA
+opis=edytor melodii PSG
+zbudowano=2026-10-02 15:43:22
+plik=muzyka/muzyka_20261002154322.plp
+
+rozmiar=53760
+sha256=2a429b736a586e5092ccd90df64f7cfa7e118f174bd2f661da65b5a2ef8b2dcb
+
+[notatnik]
+kategoria=APLIKACJE
+tytul=NOTATNIK
+opis=edytor tekstu
+zbudowano=2026-10-02 15:43:22
+plik=notatnik/notatnik_20261002154322.plp
+
+rozmiar=25746
+sha256=37e6fd681adc2694d6caf24631259cf5a1585c2eb07299d3af823d6ccab54622
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-02 15:43:23
+plik=panel/panel_20261002154323.plp
+
+rozmiar=33225
+sha256=e71d39e13bdf90291fc66b5a2ede52d9d233fe77c95ed382966c3a65d4e37320
+
+[pietnastka]
+kategoria=GRY
+tytul=PIETNASTKA
+opis=15-puzzle
+zbudowano=2026-10-02 15:43:23
+plik=pietnastka/pietnastka_20261002154323.plp
+
+rozmiar=15449
+sha256=056c6b9595f06412527b91d63136f26e953e0d46d2ea3ff28c88c451d8569859
+
+[pliki]
+kategoria=SYSTEMOWE
+tytul=PLIKI
+opis=menedzer plikow
+zbudowano=2026-10-02 15:43:24
+plik=pliki/pliki_20261002154324.plp
+
+rozmiar=17136
+sha256=1dfd850e49d57d6bc803c08b3cce2d179db58b7ebbae517d002d24856ef0c5c9
+
+[podglad]
+kategoria=APLIKACJE
+tytul=PODGLAD
+opis=podglad szesnastkowy
+zbudowano=2026-10-02 15:43:25
+plik=podglad/podglad_20261002154325.plp
+
+rozmiar=15681
+sha256=7bf844c411d96d59bfc675ab079a54cd2163787acafef008fc520e3432180ec9
+
+[pomocnik]
+kategoria=SYSTEMOWE
+tytul=POMOCNIK
+opis=czytnik instrukcji
+zbudowano=2026-10-02 15:43:25
+plik=pomocnik/pomocnik_20261002154325.plp
+
+rozmiar=16131
+sha256=3d89ca8494da8aa252a15f63b5458d507fde3be876edef09b34cbabd2ce0cb42
+
+[sigma]
+kategoria=SYSTEMOWE
+tytul=SIGMA
+opis=nakladka konsolowa SIGMA
+zbudowano=2026-10-02 15:43:26
+plik=sigma/sigma_20261002154326.plp
+
+rozmiar=25251
+sha256=e2c14780e20df811fcf87c26659f1682dacf89551d05beccd61650faca5ed6a6
+
+[sigma-2000]
+kategoria=APLIKACJE
+tytul=SIGMA-2000
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-02 15:43:27
+plik=sigma-2000/sigma-2000_20261002154327.plp
+
+rozmiar=66151
+sha256=b811b390716282e7e523864677232d1e4aa00b0c4f440be71481186fe8a75600
+
+[skryba]
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-02 15:43:28
+plik=skryba/skryba_20261002154328.plp
+
+rozmiar=27229
+sha256=54fdf88a3136a335be54f0cef7f6b5933045b2f6206ed79a7a0a9ebff83e30f6
+
+[stoper]
+kategoria=APLIKACJE
+tytul=STOPER
+opis=stoper, minutnik, zegar
+zbudowano=2026-10-02 15:43:29
+plik=stoper/stoper_20261002154329.plp
+
+rozmiar=15319
+sha256=a986c357c0538e82375d699a7a57cc412a2935e7ef4b8aec94c2c15961d50787
+
+[szachy]
+kategoria=GRY
+tytul=SZACHY
+opis=szachy z przeciwnikiem
+zbudowano=2026-10-02 15:43:29
+plik=szachy/szachy_20261002154329.plp
+
+rozmiar=19857
+sha256=fafd00d587d16f5c96ac31923b6c111300dc752f737187408a35f6113665b394
+
+[terminarz]
+kategoria=APLIKACJE
+tytul=TERMINARZ
+opis=notatki po datach
+zbudowano=2026-10-02 15:43:30
+plik=terminarz/terminarz_20261002154330.plp
+
+rozmiar=16280
+sha256=d31c8bfeb13642ba20349cd8043fac6ca005e33e6743b26a30482a5c12042ea1
+
+[ad_altare_dei]
+kategoria=GRY
+tytul=AD ALTARE DEI
+zbudowano=2026-10-02 15:43:32
+plik=ad_altare_dei/ad_altare_dei_20261002154332.plp
+
+rozmiar=203278
+sha256=5e8d875de82f672f4124bebf8c00b6f7c77c9c9148687336b6c13dc3e7d62afb
+
+[cyberresorak]
+kategoria=GRY
+tytul=CyberResorak
+opis=nocne wyscigi po miescie - kariera, policja, gangi
+zbudowano=2026-10-02 15:43:35
+plik=cyberresorak/cyberresorak_20261002154335.plp
+
+rozmiar=681188
+sha256=9f6f08676c6bf444e1a7456b2dd98b61e4ce4e853fde872cead6e5aa2a4181ae
+
+[egzorcysta]
+kategoria=GRY
+tytul=EGZORCYSTA
+zbudowano=2026-10-02 15:43:37
+plik=egzorcysta/egzorcysta_20261002154337.plp
+
+rozmiar=1217967
+sha256=fae49d63524cc4538b966e7e9cd93bea350116018904d97ae65d475842536e12
+
+[f1vsquad]
+kategoria=GRY
+tytul=F1 vs QUAD
+zbudowano=2026-10-02 15:43:39
+plik=f1vsquad/f1vsquad_20261002154339.plp
+
+rozmiar=148197
+sha256=19a1d67835bc529e910e0891c41747c16f94d55397004f90b316fc1faeadc1bb
+
+[burgery_hasselandzkie]
+kategoria=GRY
+tytul=BURGERY HASSELANDZKIE
+zbudowano=2026-10-02 15:43:40
+plik=burgery_hasselandzkie/burgery_hasselandzkie_20261002154340.plp
+
+rozmiar=51157
+sha256=41e8f7e38adc97abf0cba0fb2b6c4db387d8cdd5d6a063e472e0af8978b7f43d
+
+[jaslo1474]
+kategoria=GRY
+tytul=JASŁO 1474
+zbudowano=2026-10-02 15:43:41
+plik=jaslo1474/jaslo1474_20261002154341.plp
+
+rozmiar=83980
+sha256=825d22e86d29106317e18105cf72bc486559c7b9f35b872629fd6b268489ac51
+
+[mini_futbol]
+kategoria=GRY
+tytul=MINI FUTBOL
+zbudowano=2026-10-02 15:43:43
+plik=mini_futbol/mini_futbol_20261002154343.plp
+
+rozmiar=206903
+sha256=3bd54ebcc27f2ddf157d9b3f528bdc3b0690e8b1c2d92c95f175e87b5913b94c
+
+[piccomistrz]
+kategoria=GRY
+tytul=PICCOMISTRZ
+zbudowano=2026-10-02 15:43:44
+plik=piccomistrz/piccomistrz_20261002154344.plp
+
+rozmiar=100873
+sha256=63057ec51637d2dc2d0405441935d6c2090b07f08f658f71a31e8494a36b1eae
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-02 15:43:51
+plik=seculum/seculum_20261002154351.plp
+
+rozmiar=1265146
+sha256=821cbcf0244d86ea05d4cf6913b4de1073569022d412c06aec5339c03c4358c8
+
+[szalony_rc]
+kategoria=GRY
+tytul=SZALONY RC
+zbudowano=2026-10-02 15:43:52
+plik=szalony_rc/szalony_rc_20261002154352.plp
+
+rozmiar=59206
+sha256=4ea8d4873e943b15ae5040625f4283a0c562e86e4be0ac2021e2f91561c6b26e
+
+[tropicana]
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-02 15:43:53
+plik=tropicana/tropicana_20261002154353.plp
+
+rozmiar=74504
+sha256=9d844b509d0b3fcc1748d4275c3b00f462a2b560115dceb5a2a4d8a18d9144ea
+
+[wykoleo]
+kategoria=GRY
+tytul=WYKOLEO
+opis=buduj tor przed parowozem - rab, kuj i nie daj mu stanac
+zbudowano=2026-10-02 15:43:55
+plik=wykoleo/wykoleo_20261002154355.plp
+
+rozmiar=117314
+sha256=04691ce5aab8dda9a9b8f5c95dc27273a52833f4428f891901aeb1efe9d7aa0c
+
+[zuk_2000]
+kategoria=GRY
+tytul=ŻUK 2000
+zbudowano=2026-10-02 15:43:56
+plik=zuk_2000/zuk_2000_20261002154356.plp
+
+rozmiar=54795
+sha256=3a3710f0a3618bdc4ab17a0328461ac02422deb2d67cc54190d053c7bb966d9e
+
+[astrolabium]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=ASTROLABIUM
+opis=Co dzis widac na niebie: chmury, ksiezyc, zorza, przeloty satelitow
+zbudowano=2026-10-02 15:43:58
+plik=astrolabium/astrolabium_20261002154358.plp
+
+rozmiar=90429
+sha256=0a2f4bb89f47af439e38e63c807f589f6f9260410f8fae296f00699cf0aac108
+
+[bilans]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=BILANS
+opis=kursy walut i zloto NBP
+zbudowano=2026-10-02 15:43:59
+plik=bilans/bilans_20261002154359.plp
+
+rozmiar=48214
+sha256=3cc8038f4e48ec09b71bca67a7056048b7f96dd478be9aa93b430154c942aa66
+
+[grom]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=GROM
+opis=pogoda, powietrze i ostrzezenia
+zbudowano=2026-10-02 15:44:00
+plik=grom/grom_20261002154400.plp
+
+rozmiar=49698
+sha256=d5071e2082f22c306f597a6e30901f8267b84681251acedde4dca9798dbf42e5
+
+[hydro]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=HYDRO
+opis=stany rzek i jakosc powietrza
+zbudowano=2026-10-02 15:44:00
+plik=hydro/hydro_20261002154400.plp
+
+rozmiar=23539
+sha256=2e8ec82d43396c3f7717df4277eed19203ad1a1e7ba18077c9b0213a96e3a660
+
+[mapa]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=MAPA
+opis=mapa swiata z OpenStreetMap, tryb offline
+zbudowano=2026-10-02 15:44:02
+plik=mapa/mapa_20261002154402.plp
+
+rozmiar=75181
+sha256=6e5efc0b0524c180621c45e9f90e1e008eba0277c0b5a11b20d32ddfccca4569
+
+[panstwo]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=PANSTWO
+opis=sejm, dziennik ustaw, swieta
+zbudowano=2026-10-02 15:44:02
+plik=panstwo/panstwo_20261002154402.plp
+
+rozmiar=36565
+sha256=17b0a190dac9a75a2bef9aaa6031478b287831585a20e98595ff332015dd7f56
+
+[herold]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=HEROLD
+zbudowano=2026-10-02 15:44:04
+plik=herold/herold_20261002154404.plp
+
+rozmiar=63129
+sha256=511d6ec68941881bf473a46d659109702aad834f66409eb425be7948240cf42d
+
+[tronmaster]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=TRONMASTER
+zbudowano=2026-10-02 15:44:05
+plik=tronmaster/tronmaster_20261002154405.plp
+
+rozmiar=93754
+sha256=3b72d36a9d798704c7f83feab08b58d596104414bbbe31795ac71f75cb5002fe
+
+[chili]
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-02 16:13:44
+plik=chili/chili_20261002161344.plp
+zmiany=pozycja SYSTEM UMC-308: aktualizacja calej maszyny z repozytorium (system.txt)
+
+rozmiar=21866
+sha256=845b76e8ba7ae5284a049708d26727d79a6148b1621bbdae38e9128b4c9081f3
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-02 16:13:48
+plik=panel/panel_20261002161348.plp
+rozmiar=34454
+sha256=5f87f691f3b30a98e967a5f78bd985a1758778a400af90ebf314806224d7f3b0
+
+[arkusz]
+kategoria=APLIKACJE
+tytul=ARKUSZ
+opis=mini arkusz kalkulacyjny
+zbudowano=2026-10-02 21:13:38
+plik=arkusz/arkusz_20261002211338.plp
+rozmiar=19642
+sha256=2e02690f90e908e11dee85466f60099ace31f946390c197bf57432dda8c407ba
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[budzet]
+kategoria=APLIKACJE
+tytul=BUDZET
+opis=ksiega przychodow i wydatkow
+zbudowano=2026-10-02 21:13:38
+plik=budzet/budzet_20261002211338.plp
+rozmiar=16732
+sha256=fa9d2eaa961ab15b6fd46808eb980fc271acafb10152dcaf550cdb0b201bd761
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[chili]
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-02 21:13:38
+plik=chili/chili_20261002211338.plp
+rozmiar=23832
+sha256=c94206462b28595bd9462f46d6a6ed4c67da0d2e8a781b5fa34939e90b20db6e
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=pozycja SYSTEM UMC-308: aktualizacja calej maszyny z repozytorium (system.txt)
+
+[diagnostyka]
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=testy podzespolow
+zbudowano=2026-10-02 21:13:39
+plik=diagnostyka/diagnostyka_20261002211339.plp
+rozmiar=22820
+sha256=96cbf4f3ed67d444194f20d15738545d00d954166b48db649798bd587e9afca5
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[glify]
+kategoria=APLIKACJE
+tytul=GLIFY
+opis=edytor bitmap 8x8/16x16
+zbudowano=2026-10-02 21:13:39
+plik=glify/glify_20261002211339.plp
+rozmiar=42073
+sha256=06f82da15a13aa730b3e913379265ff86afd074d1fad0413cf30d5e6018cfdb1
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kalkulator]
+kategoria=APLIKACJE
+tytul=KALKULATOR
+opis=kalkulator
+zbudowano=2026-10-02 21:13:39
+plik=kalkulator/kalkulator_20261002211339.plp
+rozmiar=17605
+sha256=58b002053c114fad27a0f68eef08d66e55fb4ba8fe69ca3d73eecf419eb4a6b7
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kartoteka]
+kategoria=APLIKACJE
+tytul=KARTOTEKA
+opis=generyczna baza rekordow
+zbudowano=2026-10-02 21:13:40
+plik=kartoteka/kartoteka_20261002211340.plp
+rozmiar=17371
+sha256=9c59b3a9eede8d469457bace62aef80e57a89a99e772db0142150f0e8612e15d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kosci]
+kategoria=APLIKACJE
+tytul=KOSCI
+opis=kosci, tabele mistrza gry, moneta, karta postaci i tracker walki
+zbudowano=2026-10-02 21:13:41
+plik=kosci/kosci_20261002211341.plp
+rozmiar=31562
+sha256=d38362e8bca8bde33e1b950826ab02f31552b1fb8c9a2e66e036952d097914d2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menu]
+kategoria=SYSTEMOWE
+tytul=MENU
+opis=wybor programow
+zbudowano=2026-10-02 21:13:41
+plik=menu/menu_20261002211341.plp
+rozmiar=15929
+sha256=e33a1ca4c5bc3d8c707a28ccb37d7843509bd0ae9123a3eef4edb136e87c3301
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[morse]
+kategoria=APLIKACJE
+tytul=MORSE
+opis=koder i trener alfabetu Morse'a
+zbudowano=2026-10-02 21:13:42
+plik=morse/morse_20261002211342.plp
+rozmiar=16595
+sha256=08fd5e9ee03a917728d3c67e5301c36100b2f37a54ff8cb93aadd7abec17e864
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[muzyka]
+kategoria=APLIKACJE
+tytul=MUZYKA
+opis=edytor melodii PSG
+zbudowano=2026-10-02 21:13:43
+plik=muzyka/muzyka_20261002211343.plp
+rozmiar=54500
+sha256=4d9f27f26842813d2f2a295eb9813f99c217664da73c466259e2d0ffa9b91bb5
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[notatnik]
+kategoria=APLIKACJE
+tytul=NOTATNIK
+opis=edytor tekstu
+zbudowano=2026-10-02 21:13:44
+plik=notatnik/notatnik_20261002211344.plp
+rozmiar=26307
+sha256=3804d00e6e94b07cbe2c80d1b5a660ea431f2d4a118971a30be9f634b447364b
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-02 21:13:45
+plik=panel/panel_20261002211345.plp
+rozmiar=35030
+sha256=46e3a610e5e65cf5d3af8e6a4a5c57f42c2487802ee5deaf7d1428792420c4c6
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pietnastka]
+kategoria=GRY
+tytul=PIETNASTKA
+opis=15-puzzle
+zbudowano=2026-10-02 21:13:46
+plik=pietnastka/pietnastka_20261002211346.plp
+rozmiar=16013
+sha256=ce052f232359162f88438ddba8b8ef5fe1e5e4fdcea0067e63628b7c9ecfe33f
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pliki]
+kategoria=SYSTEMOWE
+tytul=PLIKI
+opis=menedzer plikow
+zbudowano=2026-10-02 21:13:47
+plik=pliki/pliki_20261002211347.plp
+rozmiar=17693
+sha256=911ced6e2d61ea55f402429b8b68769cdce72546044baa96b35a27ea426390a5
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[podglad]
+kategoria=APLIKACJE
+tytul=PODGLAD
+opis=podglad szesnastkowy
+zbudowano=2026-10-02 21:13:48
+plik=podglad/podglad_20261002211348.plp
+rozmiar=16240
+sha256=88a477749b1f69cd63277866f87f059d143635339b2fb4f96ec07d4f79ebfe60
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pomocnik]
+kategoria=SYSTEMOWE
+tytul=POMOCNIK
+opis=czytnik instrukcji
+zbudowano=2026-10-02 21:13:48
+plik=pomocnik/pomocnik_20261002211348.plp
+rozmiar=16693
+sha256=68083b83c40bdf19be7e4517d2c08a8ca53a0ec4d06d877ab4727b6f8fb85bc9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma-2000]
+kategoria=APLIKACJE
+tytul=SIGMA-2000
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-02 21:13:50
+plik=sigma-2000/sigma-2000_20261002211350.plp
+rozmiar=66931
+sha256=b92a0aacced268ae5242720f439bbbe4c099cb8283f9bc8e104370f2abad8640
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[stoper]
+kategoria=APLIKACJE
+tytul=STOPER
+opis=stoper, minutnik, zegar
+zbudowano=2026-10-02 21:13:52
+plik=stoper/stoper_20261002211352.plp
+rozmiar=15877
+sha256=d19f5216811777dfe2e2ca92a447b048e86e7adc1b228cf8e0e9e4ce20d7f2de
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[szachy]
+kategoria=GRY
+tytul=SZACHY
+opis=szachy z przeciwnikiem
+zbudowano=2026-10-02 21:13:53
+plik=szachy/szachy_20261002211353.plp
+rozmiar=20416
+sha256=abb8b24355002bc0b2a9a121ee4d3f1965d3c7f294348ac8e5ea95b355f18a58
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[terminarz]
+kategoria=APLIKACJE
+tytul=TERMINARZ
+opis=notatki po datach
+zbudowano=2026-10-02 21:13:54
+plik=terminarz/terminarz_20261002211354.plp
+rozmiar=16839
+sha256=9f1b11ec04034547e2d07e4e1d9c1583ee0511ad9ad9b4d8e2e2edb878a315ee
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-02 21:14:22
+plik=seculum/seculum_20261002211422.plp
+rozmiar=1298411
+sha256=e559803769786c8837cd234f32536f7bf5b4f4e123e4ffc50264d78e5a351c4b
+tworca=brak
+
+[chili]
+historia_sha256=5be856d58c88b78c50f56074012f3a829186beeca76dd9c7e44aea98c381298e
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-02 22:10:40
+plik=chili/chili_20261002221040.plp
+rozmiar=28801
+sha256=21399d96318068690b9b06e6223f7de2e63c6ee20ed4da98a1c243d0238ccfa3
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=zakladki SYSTEM i TWORCY, szczegoly z historia zmian (I), szukanie w katalogu (/),
+
+[czat]
+kategoria=APLIKACJE
+tytul=CZAT
+opis=rozmowa ze znajomymi w sieci G.A.B.R.I.E.L
+zbudowano=2026-10-04 22:55:30
+plik=czat/czat_20261004225530.plp
+rozmiar=16943
+sha256=ce338b30fa478cda2c0bc6f37f23545e1484dba8f81987e5a09cf661474c2ba2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-04 22:55:31
+plik=gabriel/gabriel_20261004225531.plp
+rozmiar=18435
+sha256=2e043a7fd47f749e4e2600fbc78bf846889177573a79f18fa4a0e1d7d16fbd29
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-04 22:55:53
+plik=seculum/seculum_20261004225553.plp
+rozmiar=1358000
+sha256=7e91a186d97151ad9b0cb3d197fed13e490bbc4c87abb06f3477e3e89938f821
+tworca=brak
+
+[tropicana]
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-04 22:55:55
+plik=tropicana/tropicana_20261004225555.plp
+rozmiar=98252
+sha256=e53eddcc6f882801f1b7a0ccb5abce7a715d007d6f46042c69547af20c796b1d
+tworca=brak
+
+[arkusz]
+kategoria=APLIKACJE
+tytul=ARKUSZ
+opis=mini arkusz kalkulacyjny
+zbudowano=2026-10-05 01:55:01
+plik=arkusz/arkusz_20261005015501.plp
+rozmiar=19895
+sha256=06429f0051412c05cd946206fc94909f5a30ee3e91e25e0b41f243db2eb8205d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[budzet]
+kategoria=APLIKACJE
+tytul=BUDZET
+opis=ksiega przychodow i wydatkow
+zbudowano=2026-10-05 01:55:02
+plik=budzet/budzet_20261005015502.plp
+rozmiar=17019
+sha256=2a9bd11221ff29ef9efa0100da5d01899795ebcc3f2e033026428ce1a1d093e9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[chili]
+historia_sha256=5be856d58c88b78c50f56074012f3a829186beeca76dd9c7e44aea98c381298e
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-05 01:55:02
+plik=chili/chili_20261005015502.plp
+rozmiar=29087
+sha256=b0ec0eeb49341886ad3ffd896893bc5ba003efe9f12d107468ab5b8531376e5b
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=zakladki SYSTEM i TWORCY, szczegoly z historia zmian (I), szukanie w katalogu (/),
+
+[chopin]
+kategoria=APLIKACJE
+tytul=CHOPIN
+opis=edytor muzyki MIDI
+zbudowano=2026-10-05 01:55:02
+plik=chopin/chopin_20261005015502.plp
+rozmiar=108312
+sha256=7d0dd8cd88af449090b34aec52ba4073b1a9b9cc030fa17edbffc35594d390bc
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[czat]
+kategoria=APLIKACJE
+tytul=CZAT
+opis=rozmowa ze znajomymi w sieci G.A.B.R.I.E.L
+zbudowano=2026-10-05 01:55:03
+plik=czat/czat_20261005015503.plp
+rozmiar=17183
+sha256=2d9b1b9c37b578da591e3b0e27d71e91efd87f6692f79cbdb6e02b3b76c8a5f1
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[diagnostyka]
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=testy podzespolow
+zbudowano=2026-10-05 01:55:03
+plik=diagnostyka/diagnostyka_20261005015503.plp
+rozmiar=23096
+sha256=c0f297267ffdefc03e4185b0792d7545ed92352821755ced31d0ced160c5d851
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-05 01:55:03
+plik=gabriel/gabriel_20261005015503.plp
+rozmiar=18676
+sha256=45bbcda2ff939210d15ce2320ea66f699a751f6f3b0c2fb5eaaa1579e0766fda
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[glify]
+kategoria=APLIKACJE
+tytul=GLIFY
+opis=edytor bitmap 8x8/16x16
+zbudowano=2026-10-05 01:55:04
+plik=glify/glify_20261005015504.plp
+rozmiar=42347
+sha256=bf49805f3072b147d0d92fc37390990a3c76827416a5cb7bd74f9471fc3cf307
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kalkulator]
+kategoria=APLIKACJE
+tytul=KALKULATOR
+opis=kalkulator
+zbudowano=2026-10-05 01:55:04
+plik=kalkulator/kalkulator_20261005015504.plp
+rozmiar=17864
+sha256=3fdfd325d57c4c033c27ef96af56843f27134d5440a5c02bca1de89d9e1b6b61
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kartoteka]
+kategoria=APLIKACJE
+tytul=KARTOTEKA
+opis=generyczna baza rekordow
+zbudowano=2026-10-05 01:55:04
+plik=kartoteka/kartoteka_20261005015504.plp
+rozmiar=17641
+sha256=ae643fdeba565728812ac90394d830515e2d9fccdb4444c5226129f1867a0820
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[komandor]
+kategoria=SYSTEMOWE
+tytul=KOMANDOR
+opis=dwupanelowy menedzer plikow
+zbudowano=2026-10-05 01:55:05
+plik=komandor/komandor_20261005015505.plp
+rozmiar=23694
+sha256=eaa6f5708634282b9a4fd64b09e0d4f7ef68bb73357599c0aced3e13cbbd5197
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kosci]
+kategoria=APLIKACJE
+tytul=KOSCI
+opis=kosci, tabele mistrza gry, moneta, karta postaci i tracker walki
+zbudowano=2026-10-05 01:55:05
+plik=kosci/kosci_20261005015505.plp
+rozmiar=31847
+sha256=9170d49047208ac58bfc59795e0188cb420653b0974aed6d4e7725dd6adb188e
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menu]
+kategoria=SYSTEMOWE
+tytul=MENU
+opis=wybor programow
+zbudowano=2026-10-05 01:55:06
+plik=menu/menu_20261005015506.plp
+rozmiar=16192
+sha256=ad2a5807436bc3048b544fe3f29294254b257ebbd6beb63b6d62cbb014fa3f5c
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[morse]
+kategoria=APLIKACJE
+tytul=MORSE
+opis=koder i trener alfabetu Morse'a
+zbudowano=2026-10-05 01:55:06
+plik=morse/morse_20261005015506.plp
+rozmiar=16856
+sha256=d8c521e7d6ada450c3fcc848a69166a61982b47c1e607f93f1ab66b049baf743
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[muzyka]
+kategoria=APLIKACJE
+tytul=MUZYKA
+opis=edytor melodii PSG
+zbudowano=2026-10-05 01:55:07
+plik=muzyka/muzyka_20261005015507.plp
+rozmiar=54757
+sha256=f7c98124f7f801447eb9eb62ca1b116e2332c472057774e604a7d5c734d4a585
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[notatnik]
+kategoria=APLIKACJE
+tytul=NOTATNIK
+opis=edytor tekstu
+zbudowano=2026-10-05 01:55:07
+plik=notatnik/notatnik_20261005015507.plp
+rozmiar=26570
+sha256=a403051057c8aabcfba7c7622d096bb82c2bafe3bf6230ca349db070f1e82ccb
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-05 01:55:08
+plik=panel/panel_20261005015508.plp
+rozmiar=35285
+sha256=6af3c71d108b17870835cd1dac7ffd4af8d24c284752d6bbb633745f8b792936
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pietnastka]
+kategoria=GRY
+tytul=PIETNASTKA
+opis=15-puzzle
+zbudowano=2026-10-05 01:55:08
+plik=pietnastka/pietnastka_20261005015508.plp
+rozmiar=16266
+sha256=0f820ce25edcbfe7f706d043e17c79649b01873253eeb9588188ea8b8f85fa95
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pliki]
+kategoria=SYSTEMOWE
+tytul=PLIKI
+opis=menedzer plikow
+zbudowano=2026-10-05 01:55:08
+plik=pliki/pliki_20261005015508.plp
+rozmiar=17948
+sha256=c8ed8ebb60b8ff1e52404b0893639c7057dda22e2c11fb60ac1a978d468e127b
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[podglad]
+kategoria=APLIKACJE
+tytul=PODGLAD
+opis=podglad szesnastkowy
+zbudowano=2026-10-05 01:55:09
+plik=podglad/podglad_20261005015509.plp
+rozmiar=16518
+sha256=38db3098dec9aefb1696fdaf04689c17bdf4b2a8836429de7e83f7fc7912e878
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pomocnik]
+kategoria=SYSTEMOWE
+tytul=POMOCNIK
+opis=czytnik instrukcji
+zbudowano=2026-10-05 01:55:09
+plik=pomocnik/pomocnik_20261005015509.plp
+rozmiar=16949
+sha256=9cf54b48a491135c3eb655d034b6621c3193f46c3c5b0ba98bd4c04c58020b7d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma]
+kategoria=SYSTEMOWE
+tytul=SIGMA
+opis=nakladka konsolowa SIGMA
+zbudowano=2026-10-05 01:55:10
+plik=sigma/sigma_20261005015510.plp
+rozmiar=32078
+sha256=f3c52cf5c351c601fdd62fcb41daf695cdcea48d80335ea9d0dba53faf2d93e4
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma-2000]
+kategoria=APLIKACJE
+tytul=SIGMA-2000
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-05 01:55:10
+plik=sigma-2000/sigma-2000_20261005015510.plp
+rozmiar=67211
+sha256=2d4d2e7b77c3947601b860fed5fde936877ce83409e75ff58cd962e74a135cec
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-05 01:55:11
+plik=skryba/skryba_20261005015511.plp
+rozmiar=28090
+sha256=b1f5d29fed066dbec925438894eef8ee390374486031ba6f5ffce1637808f5fb
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[stoper]
+kategoria=APLIKACJE
+tytul=STOPER
+opis=stoper, minutnik, zegar
+zbudowano=2026-10-05 01:55:11
+plik=stoper/stoper_20261005015511.plp
+rozmiar=16162
+sha256=3adafb154f1ba817ee16c18b6c0ca23744ac89910914b1be8e29a760ad8b1aa4
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[szachy]
+kategoria=GRY
+tytul=SZACHY
+opis=szachy z przeciwnikiem
+zbudowano=2026-10-05 01:55:12
+plik=szachy/szachy_20261005015512.plp
+rozmiar=20672
+sha256=0e8545b427f569b71af3bb1f6b5b38b2b54e593195d80cd556d38b67ec714152
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[terminarz]
+kategoria=APLIKACJE
+tytul=TERMINARZ
+opis=notatki po datach
+zbudowano=2026-10-05 01:55:12
+plik=terminarz/terminarz_20261005015512.plp
+rozmiar=17113
+sha256=16e11f74355925ccde4221a9ecc29680d7ba2c837976566b53a6c9038eaf8cf2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-05 01:55:24
+plik=seculum/seculum_20261005015524.plp
+rozmiar=1371987
+sha256=4a7419dc88b7f6caaf4254bef0894e1c31267840368dd67e6e7480a84cb8301b
+tworca=brak
+
+[tropicana]
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-05 01:55:26
+plik=tropicana/tropicana_20261005015526.plp
+rozmiar=128705
+sha256=3cb09b7e209dd21307e446eb5ce01864266a97d261cb03c316a080237b69e7f3
+tworca=brak
+
+[tropicana]
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-05 02:38:06
+plik=tropicana/tropicana_20261005023806.plp
+rozmiar=132996
+sha256=98a05ceb143b7331f9d09a16b10fc7c782bfb628df4c10c475c40bc880ad1b43
+tworca=brak
+
+[sigma]
+kategoria=SYSTEMOWE
+tytul=SIGMA
+opis=nakladka konsolowa SIGMA
+zbudowano=2026-10-05 02:45:17
+plik=sigma/sigma_20261005024517.plp
+rozmiar=32340
+sha256=f079fd7dc4d0f2c6229cee96dc3b6a2aca78ce40a48afadf0ef5e6205689fe46
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma-2000]
+kategoria=APLIKACJE
+tytul=SIGMA-2000
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-05 02:45:18
+plik=sigma-2000/sigma-2000_20261005024518.plp
+rozmiar=67214
+sha256=78d91c1708d57cfcde36f4a562e3ca86908ec2b56841d0dfac8754097c227fa9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[ad_altare_dei]
+kategoria=GRY
+tytul=AD ALTARE DEI
+zbudowano=2026-10-05 02:45:21
+plik=ad_altare_dei/ad_altare_dei_20261005024521.plp
+rozmiar=203485
+sha256=9c3be972bcb87078adba3108f5691e748be6609c257e75c844c04d9dfb85950e
+tworca=brak
+
+[cyberresorak]
+kategoria=GRY
+tytul=CyberResorak
+opis=nocne wyscigi po miescie - kariera, policja, gangi
+zbudowano=2026-10-05 02:45:23
+plik=cyberresorak/cyberresorak_20261005024523.plp
+rozmiar=681461
+sha256=edab2cd84858d43569b5ec25d947abf352e822e9f9bafeb8fedc6fb008a337e4
+tworca=brak
+
+[egzorcysta]
+kategoria=GRY
+tytul=EGZORCYSTA
+zbudowano=2026-10-05 02:45:24
+plik=egzorcysta/egzorcysta_20261005024524.plp
+rozmiar=1218191
+sha256=d4f22910a946773124bb07d3fbfbfb399cc5b46ec8c8c84ddba89b310910866f
+tworca=brak
+
+[f1vsquad]
+kategoria=GRY
+tytul=F1 vs QUAD
+zbudowano=2026-10-05 02:45:25
+plik=f1vsquad/f1vsquad_20261005024525.plp
+rozmiar=148394
+sha256=c74e6f46c27527c22e81377fceb973eed6e28eb012026c9fd6a88a1702b96bba
+tworca=brak
+
+[burgery_hasselandzkie]
+kategoria=GRY
+tytul=BURGERY HASSELANDZKIE
+zbudowano=2026-10-05 02:45:26
+plik=burgery_hasselandzkie/burgery_hasselandzkie_20261005024526.plp
+rozmiar=51383
+sha256=42baff06f6973bc98f5410f603f71acf43fd8d47b6caa0b5a2cacff7000c2281
+tworca=brak
+
+[jaslo1474]
+kategoria=GRY
+tytul=JASŁO 1474
+zbudowano=2026-10-05 02:45:27
+plik=jaslo1474/jaslo1474_20261005024527.plp
+rozmiar=84191
+sha256=c304c425329758ba921e03eb9752b9aa72584b5c2ea296bd83046d0cf901ee0c
+tworca=brak
+
+[mini_futbol]
+kategoria=GRY
+tytul=MINI FUTBOL
+zbudowano=2026-10-05 02:45:28
+plik=mini_futbol/mini_futbol_20261005024528.plp
+rozmiar=207136
+sha256=e80f2d5f5ae53f14665f7b44f2bceb6fee7cbeb6165e577166c26222583444ad
+tworca=brak
+
+[piccomistrz]
+kategoria=GRY
+tytul=PICCOMISTRZ
+zbudowano=2026-10-05 02:45:29
+plik=piccomistrz/piccomistrz_20261005024529.plp
+rozmiar=101106
+sha256=cb451f8ee375963e430217a77bf3e97dad0b864f2a356838de6f3bc31f4a5c19
+tworca=brak
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-05 02:45:34
+plik=seculum/seculum_20261005024534.plp
+rozmiar=1372208
+sha256=304a47a3e3f01c26c178bbfbd276911f0aef86a580efa0d28cda3dd1e08ed5d3
+tworca=brak
+
+[szalony_rc]
+kategoria=GRY
+tytul=SZALONY RC
+zbudowano=2026-10-05 02:45:35
+plik=szalony_rc/szalony_rc_20261005024535.plp
+rozmiar=59431
+sha256=f584c0039f39e97eedc9b2827ba2a3bddb827181a24082864ae0942d5f511a4c
+tworca=brak
+
+[tropicana]
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-05 02:45:36
+plik=tropicana/tropicana_20261005024536.plp
+rozmiar=139744
+sha256=397d675376b7fb47658f75134531b89e41eb684ba75eb987c047fbac49366c69
+tworca=brak
+
+[wykoleo]
+kategoria=GRY
+tytul=WYKOLEO
+opis=buduj tor przed parowozem - rab, kuj i nie daj mu stanac
+zbudowano=2026-10-05 02:45:37
+plik=wykoleo/wykoleo_20261005024537.plp
+rozmiar=117614
+sha256=2856ba2360b8829d9dea6f1c926b4ea8e58b5f0932468af6d4d11bcf726da13d
+tworca=brak
+
+[zuk_2000]
+kategoria=GRY
+tytul=ŻUK 2000
+zbudowano=2026-10-05 02:45:38
+plik=zuk_2000/zuk_2000_20261005024538.plp
+rozmiar=55031
+sha256=1058795d5605e0a2a68e4ba6c960e4a016951082cdf9f331c22b8501fa502f27
+tworca=brak
+
+[astrolabium]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=ASTROLABIUM
+opis=Co dzis widac na niebie: chmury, ksiezyc, zorza, przeloty satelitow
+zbudowano=2026-10-05 02:45:39
+plik=astrolabium/astrolabium_20261005024539.plp
+rozmiar=90697
+sha256=de8c0d9b5a4c99ee3be77cb5710f2bd2fc262c62b60840ea8c45f0fb6d5112ab
+tworca=brak
+
+[bilans]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=BILANS
+opis=kursy walut i zloto NBP
+zbudowano=2026-10-05 02:45:39
+plik=bilans/bilans_20261005024539.plp
+rozmiar=48429
+sha256=0451420de62d4475d2928ddfd1c6c0e2b91d84ddde0b07594089ea6ad8858e9a
+tworca=brak
+
+[grom]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=GROM
+opis=pogoda, powietrze i ostrzezenia
+zbudowano=2026-10-05 02:45:40
+plik=grom/grom_20261005024540.plp
+rozmiar=49925
+sha256=5eac9673cfd5bdc7dd97c7602774c8a8a3948e55b1a7a22f25ba6f8e33f06707
+tworca=brak
+
+[hydro]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=HYDRO
+opis=stany rzek i jakosc powietrza
+zbudowano=2026-10-05 02:45:41
+plik=hydro/hydro_20261005024541.plp
+rozmiar=23776
+sha256=d9a682cf0df2f3913302146297c1c44dc669cd386265e4470a178a9555a3f8a9
+tworca=brak
+
+[mapa]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=MAPA
+opis=mapa swiata z OpenStreetMap, tryb offline
+zbudowano=2026-10-05 02:45:41
+plik=mapa/mapa_20261005024541.plp
+rozmiar=75437
+sha256=d740361df5a4a76a603d973ab53d1eefb745fb25d31602d6c25ba24f88bfcf4f
+tworca=brak
+
+[panstwo]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=PANSTWO
+opis=sejm, dziennik ustaw, swieta
+zbudowano=2026-10-05 02:45:42
+plik=panstwo/panstwo_20261005024542.plp
+rozmiar=36782
+sha256=a03e8cb60ec0ba39d95d15949cd679d8635c17bca2352bdeafd53ec8fe8b6d65
+tworca=brak
+
+[herold]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=HEROLD
+zbudowano=2026-10-05 02:45:43
+plik=herold/herold_20261005024543.plp
+rozmiar=63337
+sha256=f147e96a959152a120bc87e200a97ed0691aec7feb14fc61c41616cf12cfa391
+tworca=brak
+
+[tronmaster]
+kategoria=SIECIOWE
+wymaga=internet
+tytul=TRONMASTER
+zbudowano=2026-10-05 02:45:44
+plik=tronmaster/tronmaster_20261005024544.plp
+rozmiar=93966
+sha256=ee6ab043181e4f28722c49ad8233027f3fa7456d047e10a642c2ede595ed4643
+tworca=brak
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-07 11:45:56
+plik=panel/panel_20261007114556.plp
+rozmiar=35409
+sha256=183e8522313b1f991363b8f971f48e85fb166291b6d21bc8cc2839cbba191380
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[mini_futbol]
+kategoria=GRY
+tytul=MINI FUTBOL
+zbudowano=2026-10-07 11:46:11
+plik=mini_futbol/mini_futbol_20261007114611.plp
+rozmiar=394207
+sha256=ca9a3f68cc5e46567dd9bd7d6f6f379e46b7504861f3a05368284b5af2fb8d80
+tworca=brak
+
+[wazrzeczny]
+kategoria=GRY
+tytul=WAZ RZECZNY
+zbudowano=2026-10-07 11:46:13
+plik=wazrzeczny/wazrzeczny_20261007114613.plp
+rozmiar=80501
+sha256=fbe2a8edaea116b88a065fb4de12ac3657748eff83d9bfa84f214e0c686dd961
+tworca=brak
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-07 11:46:18
+plik=seculum/seculum_20261007114618.plp
+rozmiar=1416551
+sha256=b90a3883de662b2489d6dc2b3525bd6de287bce4d0de978403355d9d51471e48
+tworca=brak
+
+[tropicana]
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-07 11:46:22
+plik=tropicana/tropicana_20261007114622.plp
+rozmiar=443324
+sha256=cbff70faf3544128c3f4c0dac9657432bd5fead9f56a9c68a640012eb51003dd
+tworca=brak
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-07 16:46:13
+plik=panel/panel_20261007164613.plp
+rozmiar=40097
+sha256=c6b3a21d70c7db51fbe5a465db7173d9b364e36f2273729b820591cf3a861b73
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[chili]
+historia_sha256=9f625bf48df4eea69b5abcb04c6d63a8c7b5f324a93adac1f65e4000fde972eb
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-07 17:02:03
+plik=chili/chili_20261007170203.plp
+rozmiar=29641
+sha256=0ec137dd90a300074f857734fbb9d19af04ee4aaf04064188cac07e6fe403c19
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=repozytorium, ktore nie odpowiada, konczy sprawdzanie oknem "REPOZYTORIUM NIE ODPOWIADA"
+
+[chili]
+historia_sha256=9f625bf48df4eea69b5abcb04c6d63a8c7b5f324a93adac1f65e4000fde972eb
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-07 17:45:44
+plik=chili/chili_20261007174544.plp
+rozmiar=30155
+sha256=744849d4246f1986286461e4adf0439589527e6294f3732b00a585ecf7e2339f
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=repozytorium, ktore nie odpowiada, konczy sprawdzanie oknem "REPOZYTORIUM NIE ODPOWIADA"
+
+[chopin]
+kategoria=APLIKACJE
+tytul=CHOPIN
+opis=edytor muzyki MIDI
+zbudowano=2026-10-07 17:45:45
+plik=chopin/chopin_20261007174545.plp
+rozmiar=108347
+sha256=6f44da36a3b387b1f2ebf0a1443dfe11c552f36156e04d91b89f5335ac6270c0
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[diagnostyka]
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=testy podzespolow
+zbudowano=2026-10-07 17:45:45
+plik=diagnostyka/diagnostyka_20261007174545.plp
+rozmiar=23115
+sha256=d76ed932a54e49bac99ffb29812588dd6ffbf595b3d93db5cad00953a5d8de6b
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-07 17:45:46
+plik=gabriel/gabriel_20261007174546.plp
+rozmiar=18693
+sha256=a24dfb899aba69b774601cc4bba9e161ed29d8a8a4092b27e60d46bce7360944
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[glify]
+kategoria=APLIKACJE
+tytul=GLIFY
+opis=edytor bitmap 8x8/16x16
+zbudowano=2026-10-07 17:45:46
+plik=glify/glify_20261007174546.plp
+rozmiar=42363
+sha256=a8e6d035de625d273e31a67ea5173263d7cd65dd5b7654d6fd83d6fbac3862e2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[komandor]
+kategoria=SYSTEMOWE
+tytul=KOMANDOR
+opis=dwupanelowy menedzer plikow
+zbudowano=2026-10-07 17:45:47
+plik=komandor/komandor_20261007174547.plp
+rozmiar=23719
+sha256=bb0c5be23c321a7f4bc5c24bb1ce8b4805eb3628064da99f5b0ecd7ff15d1d92
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menedzer]
+kategoria=SYSTEMOWE
+tytul=MENEDZER
+opis=uprawnienia programow
+zbudowano=2026-10-07 17:45:48
+plik=menedzer/menedzer_20261007174548.plp
+rozmiar=19560
+sha256=cced6de2bc170e2946165e6f39e1af79610f160dbf9b9a5a4aa6b92c69c51e06
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menu]
+kategoria=SYSTEMOWE
+tytul=MENU
+opis=wybor programow
+zbudowano=2026-10-07 17:45:48
+plik=menu/menu_20261007174548.plp
+rozmiar=16214
+sha256=b39389bd75b4d4046f33113cf403279b467891fc70a3ecbfb65e5e35554af074
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[muzyka]
+kategoria=APLIKACJE
+tytul=MUZYKA
+opis=edytor melodii PSG
+zbudowano=2026-10-07 17:45:49
+plik=muzyka/muzyka_20261007174549.plp
+rozmiar=54806
+sha256=1831960f5187f51e7584ea38bf57332cc043aacac3034255797554e6e999a0de
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[notatnik]
+kategoria=APLIKACJE
+tytul=NOTATNIK
+opis=edytor tekstu
+zbudowano=2026-10-07 17:45:49
+plik=notatnik/notatnik_20261007174549.plp
+rozmiar=26592
+sha256=73f7a699d060140fb0694d3f5f85cdf15919117b9a571be3609d233b3beff525
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panel]
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-07 17:45:49
+plik=panel/panel_20261007174549.plp
+rozmiar=40118
+sha256=ad5b8e71ea852741db7a411b5f90dd2399c5cb67a4f23e3a5dcd0eb131b75e11
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pliki]
+kategoria=SYSTEMOWE
+tytul=PLIKI
+opis=menedzer plikow
+zbudowano=2026-10-07 17:45:50
+plik=pliki/pliki_20261007174550.plp
+rozmiar=17973
+sha256=d5e391d3c76a467bef7dda327ff509cb7f032a8e42ba6b856e5f551f3e3b93ef
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[podglad]
+kategoria=APLIKACJE
+tytul=PODGLAD
+opis=podglad szesnastkowy
+zbudowano=2026-10-07 17:45:51
+plik=podglad/podglad_20261007174551.plp
+rozmiar=16541
+sha256=1ca88ca0fca668fa5207dbe9a35293583d2a281162c0819b8f888f46e88c29ac
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pomocnik]
+kategoria=SYSTEMOWE
+tytul=POMOCNIK
+opis=czytnik instrukcji
+zbudowano=2026-10-07 17:45:51
+plik=pomocnik/pomocnik_20261007174551.plp
+rozmiar=16969
+sha256=3e12eaae4a2884d6dae5fbbaf1cd905756f22f7c536cf0649657e09c047c153c
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma]
+kategoria=SYSTEMOWE
+tytul=SIGMA
+opis=nakladka konsolowa SIGMA
+zbudowano=2026-10-07 17:45:51
+plik=sigma/sigma_20261007174551.plp
+rozmiar=32567
+sha256=d074afd4e559a1f1a924da061b35bdbdf9819d6dbf3c2d0c19230cd017f08a70
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma-2000]
+kategoria=APLIKACJE
+tytul=SIGMA-2000
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-07 17:45:52
+plik=sigma-2000/sigma-2000_20261007174552.plp
+rozmiar=67231
+sha256=f172a52d7b7e6bbc4150eaa5e339600c9f93697f50d3dd2c52508a67d2b4da44
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-07 17:45:52
+plik=skryba/skryba_20261007174552.plp
+rozmiar=28109
+sha256=a020e4ab7b00e64f974ae7fb25c786def3978c8ac873b4fbf2774c09ce1161e7
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menedzer]
+kategoria=SYSTEMOWE
+tytul=MENEDZER
+opis=uprawnienia programow
+zbudowano=2026-10-07 18:28:22
+plik=menedzer/menedzer_20261007182822.plp
+rozmiar=27070
+sha256=32b9371d434fd6b100b074cfbb61f8bb72fbf69478395d7114b527d562ea711a
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-07 18:48:03
+plik=seculum/seculum_20261007184803.plp
+rozmiar=1423196
+sha256=9e833772bb5be57c3ba528079465ab2840c3385a50b1abe946f3ff9282016dc4
+tworca=brak
+
+[menedzer]
+kategoria=SYSTEMOWE
+tytul=MENEDZER
+opis=uprawnienia programow
+zbudowano=2026-10-07 19:06:57
+plik=menedzer/menedzer_20261007190657.plp
+rozmiar=36679
+sha256=4d78b7abd58eec0c4c7c50b2086bbf9652bc40e584df7e39a378c6adfba0f510
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-07 19:07:19
+plik=seculum/seculum_20261007190719.plp
+rozmiar=1431469
+sha256=aee2344c82aa0c01b8ca34c3860eab6a6aa900015fab7200ebaa0d514c70e617
+tworca=brak
+
+[abacus]
+ikona_sha256=cb0f1a14346e112242009e0e897996e101855c671a49ba5d46bd7a6cda563700
+ikona=abacus/ikona.iko
+kategoria=APLIKACJE
+tytul=ABACUS
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-07 21:38:03
+plik=abacus/abacus_20261007213803.plp
+rozmiar=67383
+sha256=c31b894b9199303b9137a089f2baa9880464a880edf2747ad95e4b3d2a433153
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[budzet]
+ikona_sha256=6510aaa0187810e7158df836beef0a1b83a16bcc89cc3e4291bad7d0d5063970
+ikona=budzet/ikona.iko
+kategoria=APLIKACJE
+tytul=BUDZET
+opis=ksiega przychodow i wydatkow
+zbudowano=2026-10-07 21:38:04
+plik=budzet/budzet_20261007213804.plp
+rozmiar=17114
+sha256=bb899f7c57092ce86138675bacd1ffa0e151a9ca4d097e46d74111ce40b0cf75
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[chili]
+historia_sha256=9f625bf48df4eea69b5abcb04c6d63a8c7b5f324a93adac1f65e4000fde972eb
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-07 21:38:04
+plik=chili/chili_20261007213804.plp
+rozmiar=30266
+sha256=f1163157adde5f4826d86f07a0a2d893519b2dc01aad1972739e1ffc828d8ab9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=repozytorium, ktore nie odpowiada, konczy sprawdzanie oknem "REPOZYTORIUM NIE ODPOWIADA"
+
+[chopin]
+ikona_sha256=1f1ca7367dcd16a2ef44f7839c2924610da54104d4cda15ddcbd862946d6d372
+ikona=chopin/ikona.iko
+kategoria=APLIKACJE
+tytul=CHOPIN
+opis=edytor muzyki MIDI
+zbudowano=2026-10-07 21:38:04
+plik=chopin/chopin_20261007213804.plp
+rozmiar=108468
+sha256=22e0376f6d3168464dd4b628b196535cf1402ced64585d13aa5a8bbb2a74a37d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[czat]
+ikona_sha256=be41fcb6cfd1d09878f03305d016142bcc7906a7793d8706f8e85b5095f83bb2
+ikona=czat/ikona.iko
+kategoria=APLIKACJE
+tytul=CZAT
+opis=rozmowa ze znajomymi w sieci G.A.B.R.I.E.L
+zbudowano=2026-10-07 21:38:05
+plik=czat/czat_20261007213805.plp
+rozmiar=17311
+sha256=99464e1f4dac8770636e17ae0e109f0c79d1146e0b704bd21b412b7a95a9cd9b
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[diagnostyka]
+ikona_sha256=b41adc3c42545ff54dc46f958e8473d6310a1eda433f5f3c9884222514542bb9
+ikona=diagnostyka/ikona.iko
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=testy podzespolow
+zbudowano=2026-10-07 21:38:05
+plik=diagnostyka/diagnostyka_20261007213805.plp
+rozmiar=23246
+sha256=8edf9ac3deeb4b7b98e808b203feeb675dca90feab7337687eedd9649ff9c419
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+ikona_sha256=1ab0089ae58f09b69b5329a671aa03a7ad587e588c455ebc26bb32fea4b731c7
+ikona=gabriel/ikona.iko
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-07 21:38:05
+plik=gabriel/gabriel_20261007213805.plp
+rozmiar=18860
+sha256=859e52fb59cf343c9436641ba0b0556bf946d1085e46c44ecb76299b4824cf54
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[glify]
+ikona_sha256=2d436317ebc9321f3bcc68b2208764235b0a777791b1efe63d4135c7e64d31ff
+ikona=glify/ikona.iko
+kategoria=APLIKACJE
+tytul=GLIFY
+opis=edytor bitmap 8x8/16x16
+zbudowano=2026-10-07 21:38:06
+plik=glify/glify_20261007213806.plp
+rozmiar=42521
+sha256=ac1ba84b55584800cffe82b0d6e0f48d5d3df11d93ba9074b9387752e94603c1
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kalkulator]
+ikona_sha256=26043f7f7b58e729bc5285b1bc74cc198c5ce95ff3f610a12785d6cd2f3487c4
+ikona=kalkulator/ikona.iko
+kategoria=APLIKACJE
+tytul=KALKULATOR
+opis=kalkulator
+zbudowano=2026-10-07 21:38:06
+plik=kalkulator/kalkulator_20261007213806.plp
+rozmiar=17987
+sha256=d972ca3a376df7510ce6ecc9bdb9ad1b109ac9c5618bb3f7997e2412c948e721
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kartoteka]
+ikona_sha256=92a72862135c8eb5ddbd616d0cdc70ed18e41e1334f6a65309e21665cd30d3a4
+ikona=kartoteka/ikona.iko
+kategoria=APLIKACJE
+tytul=KARTOTEKA
+opis=generyczna baza rekordow
+zbudowano=2026-10-07 21:38:06
+plik=kartoteka/kartoteka_20261007213806.plp
+rozmiar=17793
+sha256=5525d5971ad0721ccb43cea511e7033cc99e86c191073c2b48934b8e66deb798
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[komandor]
+ikona_sha256=eba4aab8e6b3c22a455a4616c2616aefc45487a648493feec2587e7fc5237544
+ikona=komandor/ikona.iko
+kategoria=SYSTEMOWE
+tytul=KOMANDOR
+opis=dwupanelowy menedzer plikow
+zbudowano=2026-10-07 21:38:06
+plik=komandor/komandor_20261007213806.plp
+rozmiar=23822
+sha256=81718c6f92761fe97abb7057db3b848edce496bfedd6ba1d0de325d3c9914672
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[kosci]
+ikona_sha256=d2c2a7b39702c7bbc85dd15987a19224a1d1f9375996477c83fab43a6b28a286
+ikona=kosci/ikona.iko
+kategoria=APLIKACJE
+tytul=KOSCI
+opis=kosci, tabele mistrza gry, moneta, karta postaci i tracker walki
+zbudowano=2026-10-07 21:38:07
+plik=kosci/kosci_20261007213807.plp
+rozmiar=32029
+sha256=b9dc2fb47816214b95629019241dcc826f3f62168ee64288de8b0ee9ae384c89
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menedzer]
+kategoria=SYSTEMOWE
+tytul=MENEDZER
+opis=uprawnienia programow
+zbudowano=2026-10-07 21:38:07
+plik=menedzer/menedzer_20261007213807.plp
+rozmiar=36861
+sha256=6e1519bf4ac3313b8925fd636f9a750723425e1bebdd598a650d84514aa959d0
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menu]
+ikona_sha256=0c3f700265623f1f474a767383fa270255f33e2ccae306ca3a81a7ed8e77a30c
+ikona=menu/ikona.iko
+kategoria=SYSTEMOWE
+tytul=MENU
+opis=wybor programow
+zbudowano=2026-10-07 21:38:08
+plik=menu/menu_20261007213808.plp
+rozmiar=16379
+sha256=b867a3ccd899331c6f9eb5ef7c8027061eeb4ef91a228bde0997aef05417340c
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[morse]
+ikona_sha256=ca20506b19382c1de5fb92c45fb3dfc443129115fefce67d9dae80d8aca7cadc
+ikona=morse/ikona.iko
+kategoria=APLIKACJE
+tytul=MORSE
+opis=koder i trener alfabetu Morse'a
+zbudowano=2026-10-07 21:38:08
+plik=morse/morse_20261007213808.plp
+rozmiar=17045
+sha256=025c2c0765620b03f8335192c71eeb05a364e6715d5dc9dd7f4b15fa789ac686
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[muzyka]
+ikona_sha256=902978e4eaf993c9b12578578c266117e59f9e0062bc1d69e3adddbcd44b6414
+ikona=muzyka/ikona.iko
+kategoria=APLIKACJE
+tytul=MUZYKA
+opis=edytor melodii PSG
+zbudowano=2026-10-07 21:38:09
+plik=muzyka/muzyka_20261007213809.plp
+rozmiar=54951
+sha256=43eea26b094352a936a141343810f4abdc7491f0da167ea1a07b95f43a49fce6
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[notatnik]
+ikona_sha256=afc04524314710c7e73d3eb02842159239868e6607ba0cb564ab72372d9c0599
+ikona=notatnik/ikona.iko
+kategoria=APLIKACJE
+tytul=NOTATNIK
+opis=edytor tekstu
+zbudowano=2026-10-07 21:38:09
+plik=notatnik/notatnik_20261007213809.plp
+rozmiar=26799
+sha256=57eb5e3808b03fa3ca52d6b7ebc5e1df14e8dcbaa6a57d5d1547f7b3b0eadf50
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panel]
+ikona_sha256=4f4635986f75ea8226fd7497ef3cdd4488bd86dabb53248ba70d4af3ec7d6212
+ikona=panel/ikona.iko
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-07 21:38:10
+plik=panel/panel_20261007213810.plp
+rozmiar=40330
+sha256=52dd5023e478c00832bb88b135bb5bba9a084762390b192822b66694a3ffde0d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pietnastka]
+ikona_sha256=df507f402ef7986f06ba210b36950ac283b059e231456aca37a5ab2fe0e759db
+ikona=pietnastka/ikona.iko
+kategoria=GRY
+tytul=PIETNASTKA
+opis=15-puzzle
+zbudowano=2026-10-07 21:38:10
+plik=pietnastka/pietnastka_20261007213810.plp
+rozmiar=16386
+sha256=98a81a3f34eb7fd01875e16d595017c659dd84400872dcd124657dc61155b829
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pliki]
+ikona_sha256=0c0931c7f4a1277d5fb87c4447c8d053a1aa7d26189edd8e3b618fc143b56abb
+ikona=pliki/ikona.iko
+kategoria=SYSTEMOWE
+tytul=PLIKI
+opis=menedzer plikow
+zbudowano=2026-10-07 21:38:10
+plik=pliki/pliki_20261007213810.plp
+rozmiar=18066
+sha256=57d217d8e3420a5e3b7868ab0850f2b40e2cc56eb5c45dd31470de1ffdfc3726
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[podglad]
+ikona_sha256=e8bc8e2239cda99a804595add664d85d5542e9f55d3848b01f170796f5ba9d27
+ikona=podglad/ikona.iko
+kategoria=APLIKACJE
+tytul=PODGLAD
+opis=podglad szesnastkowy
+zbudowano=2026-10-07 21:38:11
+plik=podglad/podglad_20261007213811.plp
+rozmiar=16779
+sha256=2ee7460d3fa5879a8e75c77c55fd7889f8e9a0806864a1e8e6a466e5c5c8d2cf
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[pomocnik]
+ikona_sha256=dc57e5f222515fcbf2d8346e621160b31992ff4ea3f4a228263010a9af98e1af
+ikona=pomocnik/ikona.iko
+kategoria=SYSTEMOWE
+tytul=POMOCNIK
+opis=czytnik instrukcji
+zbudowano=2026-10-07 21:38:11
+plik=pomocnik/pomocnik_20261007213811.plp
+rozmiar=17190
+sha256=ce7275ae5e5d4d90a1f39cf6dd33357e2840e85900edacab86dc95975ea50f6e
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma]
+kategoria=SYSTEMOWE
+tytul=SIGMA
+opis=nakladka konsolowa SIGMA
+zbudowano=2026-10-07 21:38:12
+plik=sigma/sigma_20261007213812.plp
+rozmiar=32690
+sha256=8751e7f404f22eccf1e22935f02ab47b9d2bed594c659f2a4df406ab46ba2da0
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+ikona_sha256=bd3fad00487f07d8a6cce86dededab90d07570e25ca046ecbb2b92bfc885a3ae
+ikona=skryba/ikona.iko
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-07 21:38:12
+plik=skryba/skryba_20261007213812.plp
+rozmiar=28311
+sha256=79e72e1efa6a981cbc1f047db20743727a337de8cfbb20fcdc4c8f9782f6223e
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[stoper]
+ikona_sha256=93282d2ede7effbc0c9d7a008ae5fffdfd1a0a238c2f155050308109f61ab453
+ikona=stoper/ikona.iko
+kategoria=APLIKACJE
+tytul=STOPER
+opis=stoper, minutnik, zegar
+zbudowano=2026-10-07 21:38:13
+plik=stoper/stoper_20261007213813.plp
+rozmiar=16330
+sha256=310dffa765fab45e4aa249e6819925779f868d939a70276ad08df941fdbbb8a5
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[szachy]
+ikona_sha256=3045b4262cd01416412022e5c517c5e0e65b3e9fee76b50c30114d2894bc1cf1
+ikona=szachy/ikona.iko
+kategoria=GRY
+tytul=SZACHY
+opis=szachy z przeciwnikiem
+zbudowano=2026-10-07 21:38:13
+plik=szachy/szachy_20261007213813.plp
+rozmiar=20831
+sha256=3777e93f4eabd6e58ec9995fd16f080c11e60f6d46346aae6992a8defda36ccb
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[terminarz]
+ikona_sha256=81a0efdcdb1096117afa3e8c10eafb21d4c85a662e50c7db93df382554abe8a8
+ikona=terminarz/ikona.iko
+kategoria=APLIKACJE
+tytul=TERMINARZ
+opis=notatki po datach
+zbudowano=2026-10-07 21:38:13
+plik=terminarz/terminarz_20261007213813.plp
+rozmiar=17225
+sha256=2f7186006ea978c573e2a0417782d3d126d5ac85b1e29310a7f632d67ee4cc00
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[ad_altare_dei]
+ikona_sha256=37817aa7ec7ead95232758e3dc684e35b649c332cc45b8ee5d8528f3a5014752
+ikona=ad_altare_dei/ikona.iko
+kategoria=GRY
+tytul=AD ALTARE DEI
+zbudowano=2026-10-07 21:38:14
+plik=ad_altare_dei/ad_altare_dei_20261007213814.plp
+rozmiar=205149
+sha256=bed2658951062fac30f0e66dd732037ab1eff37a21084c25a749272510587752
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[cyberresorak]
+ikona_sha256=49a605ef339b3ff2d235d24a3b9da0b1d5eaebd7febe631975c0336e6d090f2e
+ikona=cyberresorak/ikona.iko
+kategoria=GRY
+tytul=CyberResorak
+opis=nocne wyscigi po miescie - kariera, policja, gangi
+zbudowano=2026-10-07 21:38:16
+plik=cyberresorak/cyberresorak_20261007213816.plp
+rozmiar=684439
+sha256=4f52b9b324f918b92dcec1633926bb4c325e5df209a1db5dba276de572d8574d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[egzorcysta]
+ikona_sha256=7e27c9f52eedfc2c0d1a588f3c3db782011608c543cc069290a540552dc03eea
+ikona=egzorcysta/ikona.iko
+kategoria=GRY
+tytul=EGZORCYSTA
+zbudowano=2026-10-07 21:38:17
+plik=egzorcysta/egzorcysta_20261007213817.plp
+rozmiar=1219667
+sha256=dc5cd24527177a35eb5add5c6c4719478b60576dbe46f8e25a0b46e9cdd46fa4
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[f1vsquad]
+ikona_sha256=46cd081ff963cd0522aedbe5dcf6c636ed137697940bc7ac3ea7f98af6e0bfb2
+ikona=f1vsquad/ikona.iko
+kategoria=GRY
+tytul=F1 vs QUAD
+zbudowano=2026-10-07 21:38:18
+plik=f1vsquad/f1vsquad_20261007213818.plp
+rozmiar=150172
+sha256=4e7ff7a8bb94ec86746ced5d73241af56f905cd16b2a7c732354fb6adf278f56
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[burgery_hasselandzkie]
+ikona_sha256=d5dc48c712569abe0d13a212dcf5a63cfc5d4d31d2871dab763c91d2ea1944a4
+ikona=burgery_hasselandzkie/ikona.iko
+kategoria=GRY
+tytul=BURGERY HASSELANDZKIE
+zbudowano=2026-10-07 21:38:19
+plik=burgery_hasselandzkie/burgery_hasselandzkie_20261007213819.plp
+rozmiar=52463
+sha256=eff14286bce4cf7c85279ee73c1598847f97a4ea1546b5691fb43576e75b044f
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[jaslo1474]
+ikona_sha256=fa27eb07b1be0e86f98a4e4a6caa9e94c3076b68c68868b0e309415b80c4328c
+ikona=jaslo1474/ikona.iko
+kategoria=GRY
+tytul=JASŁO 1474
+zbudowano=2026-10-07 21:38:20
+plik=jaslo1474/jaslo1474_20261007213820.plp
+rozmiar=85828
+sha256=b98dcc55c1464d3aa1fff3ab3c9429b5df2afd5a4e7d12e28e3b76cbef51fdc4
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[mini_futbol]
+ikona_sha256=6de07eb83461c75fb4141f6517b2448d1dee6ed98f7a128189af775cc5be3a57
+ikona=mini_futbol/ikona.iko
+kategoria=GRY
+tytul=MINI FUTBOL
+zbudowano=2026-10-07 21:38:21
+plik=mini_futbol/mini_futbol_20261007213821.plp
+rozmiar=397413
+sha256=9a809f57947c24dae14123c3fa973667c62d95d63620037c1f24a4e35171ac8a
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[piccomistrz]
+ikona_sha256=724144f2eea7a221b4b0c218f51d6ae9710b0807fe06cc78647c7028d4d03c4e
+ikona=piccomistrz/ikona.iko
+kategoria=GRY
+tytul=PICCOMISTRZ
+zbudowano=2026-10-07 21:38:23
+plik=piccomistrz/piccomistrz_20261007213823.plp
+rozmiar=102574
+sha256=15005f9304a04676411652fa6030d8a683b9bb5c3eb82e1c1f3bd713d79ecc7d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[wazrzeczny]
+ikona_sha256=b2bd20d06fb228d2acdcc7536dee673229704cae0a23103fa4f5aa93176c321a
+ikona=wazrzeczny/ikona.iko
+kategoria=GRY
+tytul=WAZ RZECZNY
+zbudowano=2026-10-07 21:38:24
+plik=wazrzeczny/wazrzeczny_20261007213824.plp
+rozmiar=82365
+sha256=4f043ff01718f28b3127dbc7c16b6e877f2164ea60bb0ffcc10a9ae623a184f2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+ikona_sha256=97981fcecb21b17cdd35f6e2f8138d61d25e5c26a3b61c8cf3ee9cfa3d571d32
+ikona=seculum/ikona.iko
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-07 21:38:27
+plik=seculum/seculum_20261007213827.plp
+rozmiar=1439863
+sha256=fe797d39c31708621c331a202ab973cc1c2b365c48b10d4bf6b35abbc62051e9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[szalony_rc]
+ikona_sha256=27a7abae8090efbb52d5d34743fc6fbdf8b44f403057659ea31461655194c93e
+ikona=szalony_rc/ikona.iko
+kategoria=GRY
+tytul=SZALONY RC
+zbudowano=2026-10-07 21:38:29
+plik=szalony_rc/szalony_rc_20261007213829.plp
+rozmiar=60682
+sha256=a929b451ec381bb6f3e472353a3ddbe9e2cab6e0b0e30b9856ccf05960fbb5e5
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[tropicana]
+ikona_sha256=c46bd45a597d5725784200ba123b493566ac82c3f84680ea9315d554f029bdb2
+ikona=tropicana/ikona.iko
+kategoria=GRY
+tytul=TROPICANA
+zbudowano=2026-10-07 21:38:31
+plik=tropicana/tropicana_20261007213831.plp
+rozmiar=446615
+sha256=3ba9d9ee3dd7fe5e7c3fbdcf89ae017da72b18797fb1d231aabc4fd57feb96d9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[wykoleo]
+ikona_sha256=e2029a195d6c1e7a387596fd6d11ee8cc4f9ea05fa80045ecbf81e9f040ec5b9
+ikona=wykoleo/ikona.iko
+kategoria=GRY
+tytul=WYKOLEO
+opis=buduj tor przed parowozem - rab, kuj i nie daj mu stanac
+zbudowano=2026-10-07 21:38:32
+plik=wykoleo/wykoleo_20261007213832.plp
+rozmiar=119785
+sha256=65c07fa3c1d17bd3db696383118059576880c2fdcca9a97584d1ae194114b545
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[zuk_2000]
+ikona_sha256=7e401612857100872a269e20ae673028c0ead3487f4a2109a08e2e1f6b224a98
+ikona=zuk_2000/ikona.iko
+kategoria=GRY
+tytul=ŻUK 2000
+zbudowano=2026-10-07 21:38:33
+plik=zuk_2000/zuk_2000_20261007213833.plp
+rozmiar=56609
+sha256=8020d5481c24c2c9058a15a7c473ef695ae158bff4702cb0a3e0976620698f25
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[astrolabium]
+ikona_sha256=69b7b742487ca44a56bbd7a4e6c956160883e297e377093ae4d23c4cc9a8566d
+ikona=astrolabium/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=ASTROLABIUM
+opis=Co dzis widac na niebie: chmury, ksiezyc, zorza, przeloty satelitow
+zbudowano=2026-10-07 21:38:34
+plik=astrolabium/astrolabium_20261007213834.plp
+rozmiar=92369
+sha256=ba03ec77a2120b720a2db3ed31bbf0fdfdfb4ecb548d1fbe08f87d8081f1efb7
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[bilans]
+ikona_sha256=67f9631080717cf55d798c907a82be9834cf34cf6501f8eb9650ba26815e92a0
+ikona=bilans/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=BILANS
+opis=kursy walut i zloto NBP
+zbudowano=2026-10-07 21:38:35
+plik=bilans/bilans_20261007213835.plp
+rozmiar=49997
+sha256=18c3a6c961db89a04ea26dda9ed8cf5628ed71659b5e9f5e58f90813977f9bf9
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[grom]
+ikona_sha256=b8765c26b0bf5074c8d585a873adbae3e9bfae055b40e37de8b1cebe15865ded
+ikona=grom/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=GROM
+opis=pogoda, powietrze i ostrzezenia
+zbudowano=2026-10-07 21:38:36
+plik=grom/grom_20261007213836.plp
+rozmiar=51228
+sha256=85492f9e8bdd2334736defeda9ec8c7e8564cb91a760e601750f906c571bc3ab
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[hydro]
+ikona_sha256=7446a6d32897681787b0642d340033d41c2330d817ae6717d216178a191a101c
+ikona=hydro/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=HYDRO
+opis=stany rzek i jakosc powietrza
+zbudowano=2026-10-07 21:38:36
+plik=hydro/hydro_20261007213836.plp
+rozmiar=24868
+sha256=1811a894d14041fd5ec3168f2ba5779b8cbdbdc49771f15f16f4c23ea923a278
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[mapa]
+ikona_sha256=fea6bbf1d879216ce2cb5a16c05f746b2dd8696cafa3c5f8f7c544237fbcaae8
+ikona=mapa/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=MAPA
+opis=mapa swiata z OpenStreetMap, tryb offline
+zbudowano=2026-10-07 21:38:37
+plik=mapa/mapa_20261007213837.plp
+rozmiar=77026
+sha256=43298fe678e5b364f74c39ee9e543bf33c6c1ab937a695daa47f5f7a041fc330
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panstwo]
+ikona_sha256=96e50520ef39f2fa637e66d4ab5c47c2cce7934317627a6e49bf573ba614999c
+ikona=panstwo/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=PANSTWO
+opis=sejm, dziennik ustaw, swieta
+zbudowano=2026-10-07 21:38:37
+plik=panstwo/panstwo_20261007213837.plp
+rozmiar=37882
+sha256=a6663baf4e610a2be2c1a7dd37eef3801349fb7bf72c888349325867125a25d0
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[herold]
+ikona_sha256=d8d5ce9caf1b44e359139a5146607272f7e8e6240f600209acbd652a6f904148
+ikona=herold/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=HEROLD
+zbudowano=2026-10-07 21:38:38
+plik=herold/herold_20261007213838.plp
+rozmiar=64720
+sha256=026feee80f4a2e866d83ac0b28b80c2a195663666e9d11c902a3a4dcf359142e
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[tronmaster]
+ikona_sha256=201088b1240a70dc9488fc0f15ccc6595faf9331a71694ea1956d559efdc17d5
+ikona=tronmaster/ikona.iko
+kategoria=SIECIOWE
+wymaga=internet
+tytul=TRONMASTER
+zbudowano=2026-10-07 21:38:39
+plik=tronmaster/tronmaster_20261007213839.plp
+rozmiar=96434
+sha256=78b111a01e3d5d2296f753ed1308d29aae168eb3c317a795747597fed52c50ef
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[menedzer]
+ikona_sha256=a8bdfa54397fd02b23070e6f99da039876ed59e3866ef59d5f605dfaab9a62f5
+ikona=menedzer/ikona.iko
+kategoria=SYSTEMOWE
+tytul=MENEDZER
+opis=uprawnienia programow
+zbudowano=2026-10-07 21:50:49
+plik=menedzer/menedzer_20261007215049.plp
+rozmiar=36948
+sha256=bef5965f148864f233ee45e7fc0c383dba406e2b9bf2a64388a2b726ed2a2c2f
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[sigma]
+ikona_sha256=1515f9caf38f5da9a0b972023fc82f74ccb60d73c58ecc39b2c475e66615de8f
+ikona=sigma/ikona.iko
+kategoria=SYSTEMOWE
+tytul=SIGMA
+opis=nakladka konsolowa SIGMA
+zbudowano=2026-10-07 21:50:53
+plik=sigma/sigma_20261007215053.plp
+rozmiar=32643
+sha256=518f6faba381adb17e74f12df4e7252138aa1419b8b1c5007324edb357cc3d00
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[chili]
+ikona_sha256=cf1d7717ed95af2ad167427e02fa268fd31b4a88827ff5db957070bbdd9beb6c
+ikona=chili/ikona.iko
+historia_sha256=15495e9a20fe88308285c8a5ca8e0eb7e54ae0abc556ed10c106fa5fa808ae37
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-07 22:51:57
+plik=chili/chili_20261007225157.plp
+rozmiar=59706
+sha256=032b62038d30aa8d85bf6687673dc32cb95fe82193c18c957f131b8fc821bd37
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=ekran od nowa: ekran stanu, karta programu, pasek boczny z ikona, prawdziwy stan repozytoriow
+
+[chili]
+ikona_sha256=cf1d7717ed95af2ad167427e02fa268fd31b4a88827ff5db957070bbdd9beb6c
+ikona=chili/ikona.iko
+historia_sha256=15495e9a20fe88308285c8a5ca8e0eb7e54ae0abc556ed10c106fa5fa808ae37
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-07 23:15:11
+plik=chili/chili_20261007231511.plp
+rozmiar=59707
+sha256=43cea257ad7d806ad8818e9f0679842e82470111d8fd2a986353e6e9aca801ea
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=ekran od nowa: ekran stanu, karta programu, pasek boczny z ikona, prawdziwy stan repozytoriow
+
+[gabriel]
+ikona_sha256=1ab0089ae58f09b69b5329a671aa03a7ad587e588c455ebc26bb32fea4b731c7
+ikona=gabriel/ikona.iko
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-08 03:23:04
+plik=gabriel/gabriel_20261008032304.plp
+rozmiar=19103
+sha256=9c872d809f16bdbab3bd11db1b5489fef465903bf16c6caf323327c9da3b9c51
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+ikona_sha256=1ab0089ae58f09b69b5329a671aa03a7ad587e588c455ebc26bb32fea4b731c7
+ikona=gabriel/ikona.iko
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-08 03:55:20
+plik=gabriel/gabriel_20261008035520.plp
+rozmiar=41942
+sha256=547bc677edb387b04956ec96c207ee8d9b93905c3c5351df88b8f68ba0945a6f
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+ikona_sha256=1ab0089ae58f09b69b5329a671aa03a7ad587e588c455ebc26bb32fea4b731c7
+ikona=gabriel/ikona.iko
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-08 13:24:43
+plik=gabriel/gabriel_20261008132443.plp
+rozmiar=42149
+sha256=ef6135125822aab8874b8eb1ed83f5a0c3e153c88b99af1bedf48f6b4b873610
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[gabriel]
+ikona_sha256=1ab0089ae58f09b69b5329a671aa03a7ad587e588c455ebc26bb32fea4b731c7
+ikona=gabriel/ikona.iko
+kategoria=APLIKACJE
+tytul=G.A.B.R.I.E.L
+opis=sieci znajomych: zakladanie, zaproszenia, czlonkowie, pliki
+zbudowano=2026-10-08 14:39:00
+plik=gabriel/gabriel_20261008143900.plp
+rozmiar=43867
+sha256=35cf462ef3bc9c1f89a14088fa1b742f47e729e9dbee4b246a33f4aab5073e33
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[diagnostyka]
+ikona_sha256=b41adc3c42545ff54dc46f958e8473d6310a1eda433f5f3c9884222514542bb9
+ikona=diagnostyka/ikona.iko
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=przeglad zdrowia maszyny i testy podzespolow
+zbudowano=2026-10-08 16:16:27
+plik=diagnostyka/diagnostyka_20261008161627.plp
+rozmiar=56612
+sha256=53efa23c884f9f4709e7ff33a1cb2c65a2536b6ec9db037265d03508c3a576f3
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[diagnostyka]
+ikona_sha256=b41adc3c42545ff54dc46f958e8473d6310a1eda433f5f3c9884222514542bb9
+ikona=diagnostyka/ikona.iko
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=przeglad zdrowia maszyny i testy podzespolow
+zbudowano=2026-10-08 16:30:11
+plik=diagnostyka/diagnostyka_20261008163011.plp
+rozmiar=59426
+sha256=8b69abc35d4a19109542dc74fb991256aa7ac338f6a01a9ce6bd3a1a09e6fcc0
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panel]
+ikona_sha256=4f4635986f75ea8226fd7497ef3cdd4488bd86dabb53248ba70d4af3ec7d6212
+ikona=panel/ikona.iko
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-08 21:09:23
+plik=panel/panel_20261008210923.plp
+rozmiar=59379
+sha256=10db0653b8a2321434162557a7e3a5fc4a717b8a1e2daad7934513e893edd769
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[mini_futbol]
+ikona_sha256=6de07eb83461c75fb4141f6517b2448d1dee6ed98f7a128189af775cc5be3a57
+ikona=mini_futbol/ikona.iko
+kategoria=GRY
+tytul=MINI FUTBOL
+zbudowano=2026-10-08 21:09:37
+plik=mini_futbol/mini_futbol_20261008210937.plp
+rozmiar=428989
+sha256=a7d145cab28b5e578b996a86b6fe16b95792a5339ae36bdbfd0be73f6d2fcebd
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[czat]
+ikona_sha256=be41fcb6cfd1d09878f03305d016142bcc7906a7793d8706f8e85b5095f83bb2
+ikona=czat/ikona.iko
+kategoria=APLIKACJE
+tytul=CZAT
+opis=prywatne rozmowy w sieci G.A.B.R.I.E.L: pokoje, rozmowy 1:1, szyfrowanie, skrzynka
+zbudowano=2026-10-09 03:16:29
+plik=czat/czat_20261009031629.plp
+rozmiar=93264
+sha256=faa99e48f081093a6e084c38390e2f46cd387e37986e930259e0038f9707abc5
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[cyberresorak]
+ikona_sha256=49a605ef339b3ff2d235d24a3b9da0b1d5eaebd7febe631975c0336e6d090f2e
+ikona=cyberresorak/ikona.iko
+kategoria=GRY
+tytul=CyberResorak
+opis=nocne wyscigi po miescie - kariera, policja, gangi
+zbudowano=2026-10-09 03:16:44
+plik=cyberresorak/cyberresorak_20261009031644.plp
+rozmiar=748375
+sha256=263f4c8948758ae7cb405cbcca0162aa95e8a9d94fe11acb84c54fd5a5d39a2e
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[jaslo1474]
+ikona_sha256=ba0de56650c321902b57c6d1a8cb7c9a99e647995f0dbd969b72639f0f325df5
+ikona=jaslo1474/ikona.iko
+kategoria=GRY
+tytul=JASŁO 1474
+opis=roguelite: znajdź kamień filozoficzny przed Węgrami i zniszcz go
+zbudowano=2026-10-09 03:16:50
+plik=jaslo1474/jaslo1474_20261009031650.plp
+rozmiar=187280
+sha256=30732f0bd391509207963b8fb37a744fa3e057629fcc0d630c194ce8748085e2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+ikona_sha256=97981fcecb21b17cdd35f6e2f8138d61d25e5c26a3b61c8cf3ee9cfa3d571d32
+ikona=seculum/ikona.iko
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-09 03:16:58
+plik=seculum/seculum_20261009031658.plp
+rozmiar=1451744
+sha256=c43accbfa6c92200d6e5288bb050622fd9296a75d6a65b7673a9a9e72d8f01d0
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[czat]
+ikona_sha256=be41fcb6cfd1d09878f03305d016142bcc7906a7793d8706f8e85b5095f83bb2
+ikona=czat/ikona.iko
+kategoria=APLIKACJE
+tytul=CZAT
+opis=prywatne rozmowy w sieci G.A.B.R.I.E.L: pokoje, rozmowy 1:1, szyfrowanie, skrzynka
+zbudowano=2026-10-09 08:10:06
+plik=czat/czat_20261009081006.plp
+rozmiar=102361
+sha256=53f407697951c2acb5cf525a4a98c94b32dc857953582996e39b696e7a5d5d36
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[czat]
+ikona_sha256=be41fcb6cfd1d09878f03305d016142bcc7906a7793d8706f8e85b5095f83bb2
+ikona=czat/ikona.iko
+kategoria=APLIKACJE
+tytul=CZAT
+opis=prywatne rozmowy w sieci G.A.B.R.I.E.L: pokoje, rozmowy 1:1, szyfrowanie, skrzynka
+zbudowano=2026-10-09 09:14:53
+plik=czat/czat_20261009091453.plp
+rozmiar=114159
+sha256=00b055cc7f5703fc7c07508c708b03f5aabb01fe6058b1e1dc41b87dca7a0b00
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+ikona_sha256=97981fcecb21b17cdd35f6e2f8138d61d25e5c26a3b61c8cf3ee9cfa3d571d32
+ikona=seculum/ikona.iko
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-09 09:15:19
+plik=seculum/seculum_20261009091519.plp
+rozmiar=1455547
+sha256=23e4f9d6906da87ca0a505a0ddb8679ec6892b5f46c51dd0c0194dc25d077fb8
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[abacus]
+ikona_sha256=cb0f1a14346e112242009e0e897996e101855c671a49ba5d46bd7a6cda563700
+ikona=abacus/ikona.iko
+kategoria=APLIKACJE
+tytul=ABACUS
+opis=arkusz kalkulacyjny z formulami
+zbudowano=2026-10-09 16:08:26
+plik=abacus/abacus_20261009160826.plp
+rozmiar=67623
+sha256=cefd5ff97dface63337bd1c46c624d546c5eee7ef97e89222ab8d44375b12f8c
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[chili]
+ikona_sha256=cf1d7717ed95af2ad167427e02fa268fd31b4a88827ff5db957070bbdd9beb6c
+ikona=chili/ikona.iko
+historia_sha256=15495e9a20fe88308285c8a5ca8e0eb7e54ae0abc556ed10c106fa5fa808ae37
+historia=chili/zmiany.txt
+kategoria=SYSTEMOWE
+tytul=CHILIUPDATER
+opis=aktualizacje programow z repozytoriow
+zbudowano=2026-10-09 16:08:26
+plik=chili/chili_20261009160826.plp
+rozmiar=59824
+sha256=807103348bb520d7642fa5396954dd423ef6d38387bf1e534110ca58f6978b1d
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+zmiany=ekran od nowa: ekran stanu, karta programu, pasek boczny z ikona, prawdziwy stan repozytoriow
+
+[czat]
+ikona_sha256=be41fcb6cfd1d09878f03305d016142bcc7906a7793d8706f8e85b5095f83bb2
+ikona=czat/ikona.iko
+kategoria=APLIKACJE
+tytul=CZAT
+opis=prywatne rozmowy w sieci G.A.B.R.I.E.L: pokoje, rozmowy 1:1, szyfrowanie, skrzynka
+zbudowano=2026-10-09 16:08:27
+plik=czat/czat_20261009160827.plp
+rozmiar=114369
+sha256=31d18ee15b0b1fcdb27c535bbd8a5d2614fb85baddf02af331600ff3616a0f6a
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[diagnostyka]
+ikona_sha256=b41adc3c42545ff54dc46f958e8473d6310a1eda433f5f3c9884222514542bb9
+ikona=diagnostyka/ikona.iko
+kategoria=SYSTEMOWE
+tytul=DIAGNOSTYKA
+opis=przeglad zdrowia maszyny i testy podzespolow
+zbudowano=2026-10-09 16:08:28
+plik=diagnostyka/diagnostyka_20261009160828.plp
+rozmiar=59652
+sha256=0cf600b6a8a4d1d0a79d1b545f6f51f22be9f3e5bdb2192f8d77c3e68147730a
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[panel]
+ikona_sha256=4f4635986f75ea8226fd7497ef3cdd4488bd86dabb53248ba70d4af3ec7d6212
+ikona=panel/ikona.iko
+kategoria=SYSTEMOWE
+tytul=PANEL
+opis=ustawienia maszyny
+zbudowano=2026-10-09 16:08:33
+plik=panel/panel_20261009160833.plp
+rozmiar=59534
+sha256=87de84271632cef5e39963713f2eef27bcaa7af6fec090f774d19a80d1c5ab85
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+ikona_sha256=bd3fad00487f07d8a6cce86dededab90d07570e25ca046ecbb2b92bfc885a3ae
+ikona=skryba/ikona.iko
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-09 16:08:36
+plik=skryba/skryba_20261009160836.plp
+rozmiar=95172
+sha256=488c04ce28d47c44edc7131d02957a73b04f5b029eaeac7b58e05b7b2674d5f3
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[cyberresorak]
+ikona_sha256=49a605ef339b3ff2d235d24a3b9da0b1d5eaebd7febe631975c0336e6d090f2e
+ikona=cyberresorak/ikona.iko
+kategoria=GRY
+tytul=CyberResorak
+opis=nocne wyscigi po miescie - kariera, policja, gangi
+zbudowano=2026-10-09 16:08:40
+plik=cyberresorak/cyberresorak_20261009160840.plp
+rozmiar=776500
+sha256=c0f252f7b76f3a421e091912986d62a3b9408b089d24b05d7b20975d233963a1
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+ikona_sha256=97981fcecb21b17cdd35f6e2f8138d61d25e5c26a3b61c8cf3ee9cfa3d571d32
+ikona=seculum/ikona.iko
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-09 16:08:53
+plik=seculum/seculum_20261009160853.plp
+rozmiar=1477793
+sha256=4f15ce3b409a6152bdaac22c9c73a4afbd7a127e022954f7002f1507943e6c6c
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+ikona_sha256=bd3fad00487f07d8a6cce86dededab90d07570e25ca046ecbb2b92bfc885a3ae
+ikona=skryba/ikona.iko
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-09 18:53:08
+plik=skryba/skryba_20261009185308.plp
+rozmiar=108031
+sha256=e96c88f1882dd92a3942354191912b2f65b77ab066bac52db5661fb085793dd7
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+ikona_sha256=bd3fad00487f07d8a6cce86dededab90d07570e25ca046ecbb2b92bfc885a3ae
+ikona=skryba/ikona.iko
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-09 19:19:24
+plik=skryba/skryba_20261009191924.plp
+rozmiar=110233
+sha256=c67995dbe2bf46a1265b48030a49ead02bc7b01f68a18972d456d4344433b5b3
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[skryba]
+ikona_sha256=bd3fad00487f07d8a6cce86dededab90d07570e25ca046ecbb2b92bfc885a3ae
+ikona=skryba/ikona.iko
+kategoria=APLIKACJE
+tytul=SKRYBA
+opis=czytnik i edytor markdown
+zbudowano=2026-10-09 20:52:24
+plik=skryba/skryba_20261009205224.plp
+rozmiar=115201
+sha256=8119d2531215620fa3601a1576571001f812424d878a61b822e83c7b53cbf8e3
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[tablica]
+ikona_sha256=d0ef2c506d6a2806f6736fea6f02021a88637c91df44fc9fff2da9523fc57a27
+ikona=tablica/ikona.iko
+kategoria=APLIKACJE
+tytul=TABLICA
+opis=blogi i tablice w sieci G.A.B.R.I.E.L: strony ze skryby, dzialy, dziennik, pliki
+zbudowano=2026-10-09 20:52:27
+plik=tablica/tablica_20261009205227.plp
+rozmiar=101383
+sha256=d111d54253577fd110a101437e29f0dab0c34266f580926aa7fc542f765399f2
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[tablica]
+ikona_sha256=d0ef2c506d6a2806f6736fea6f02021a88637c91df44fc9fff2da9523fc57a27
+ikona=tablica/ikona.iko
+kategoria=APLIKACJE
+tytul=TABLICA
+opis=blogi i tablice w sieci G.A.B.R.I.E.L: strony ze skryby, dzialy, dziennik, pliki
+zbudowano=2026-10-09 22:17:32
+plik=tablica/tablica_20261009221732.plp
+rozmiar=144071
+sha256=1aa5db0eda971e6590a33a500cc2606d153a6976c51b841bf1b4be8441bcfe46
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+ikona_sha256=97981fcecb21b17cdd35f6e2f8138d61d25e5c26a3b61c8cf3ee9cfa3d571d32
+ikona=seculum/ikona.iko
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-10 01:10:11
+plik=seculum/seculum_20261010011011.plp
+rozmiar=1491997
+sha256=af1f648cb1fa45eb8200cd38d9f8679d84e48089aa24e1967c7712f11565d8d4
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+
+[seculum]
+ikona_sha256=97981fcecb21b17cdd35f6e2f8138d61d25e5c26a3b61c8cf3ee9cfa3d571d32
+ikona=seculum/ikona.iko
+kategoria=GRY
+tytul=SECULUM
+zbudowano=2026-10-10 19:09:04
+plik=seculum/seculum_20261010190904.plp
+rozmiar=1585063
+sha256=7c47af29fc1e61dd598757488fce813bbbf7b494e79343b6e7ee048371a3b0f1
+tworca=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c
+# podpis-ed25519=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c:8d6a51bbaad792b34d3805f6dc588bfb811c8a954f9ff105e377d648598038c9e7d5be4aa80f274b01507b704e43b6190984860e670ff94b82b362c875c3390d

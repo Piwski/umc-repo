@@ -1,0 +1,300 @@
+# UMC-308 - wydania systemu. Edytuj recznie albo megabuilder.py.
+# Blok na wydanie: [umc308], wersja=, zbudowano=, plik=, zmiany=
+tytul=Pracownia K-200
+
+[umc308]
+wersja=v24
+zbudowano=2026-10-02 16:14:49
+plik=system/umc308_20261002161449.love
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+rozmiar=2182997
+sha256=bf000af7586049cab9440feed7849f88f074bb80ea0a7e28efe76233b0e0a3d2
+
+[umc308]
+wersja=v24
+zbudowano=2026-10-02 21:15:01
+plik=system/umc308_20261002211501.love
+rozmiar=2224087
+sha256=21886c0523a6fe130bb5ee16e9fd6471af89943c6a4e976dfe406b3c853b2700
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+
+[umc308]
+historia_sha256=c458df2e988344ae9debdb28b75f735e9376197cb1689e52c72ef032e1281072
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-02 22:11:53
+plik=system/umc308_20261002221153.love
+rozmiar=2233811
+sha256=087a4f82cb3dda890b8ed06e7222a85f677997b46545ef44a6bb32dc8896e9d4
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+
+[umc308]
+historia_sha256=c458df2e988344ae9debdb28b75f735e9376197cb1689e52c72ef032e1281072
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-04 22:56:15
+plik=system/umc308_20261004225615.love
+rozmiar=2325918
+sha256=8d473a88669dbf8ecd26092a02d6758c3d27c35a5dff44710acf96f5d63bd35b
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+
+[umc308]
+historia_sha256=c458df2e988344ae9debdb28b75f735e9376197cb1689e52c72ef032e1281072
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-05 01:55:44
+plik=system/umc308_20261005015544.love
+rozmiar=2341318
+sha256=0f969d86f3bd7de6a91fa43143aedc58f7e454dc392911f750e336268d1b93ff
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+
+[umc308]
+historia_sha256=c458df2e988344ae9debdb28b75f735e9376197cb1689e52c72ef032e1281072
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-05 02:45:56
+plik=system/umc308_20261005024556.love
+rozmiar=2341571
+sha256=77afa4fd6541fe8f58691d00cd28d339e3cc2de86e0d4a1d533d1817639f3557
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+
+[umc308]
+historia_sha256=c458df2e988344ae9debdb28b75f735e9376197cb1689e52c72ef032e1281072
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 11:46:43
+plik=system/umc308_20261007114643.love
+rozmiar=2351603
+sha256=ef1595b43870f5b54c5058ab896f4f40273d7c7d56f8958f002b4d634ac97e33
+zmiany=aktualizacja systemu z repozytorium: aktualizuj system, CHILIUPDATER
+
+[umc308]
+historia_sha256=65d838a77b5c63c54bda070b142802461ecca196dc31bb31a0733f66731eec38
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 16:46:25
+plik=system/umc308_20261007164625.love
+rozmiar=2406873
+sha256=26e89feacaeddfde5b112494db7c1beb65448967058a4b00952ffc135e0e0ac3
+zmiany=aktualizacja systemu odswieza tez pliki gospodarza (pomocnik roota, jednostki, rozruch); ustawienia fabryczne: komenda fabryczny i panel
+
+[umc308]
+historia_sha256=9feffe724ce254ef8602e506abbd9af86297b9c4150b8ee57135b4bd2cd4d61e
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 17:02:15
+plik=system/umc308_20261007170215.love
+rozmiar=2411392
+sha256=f3636b9854f626a22283f86324f9388282ceaa064e1e69de1be9ce8179ee7218
+zmiany=aktualizacja doinstalowuje brakujace pakiety sterownikow (np. wireguard-tools); repozytorium, ktore nie odpowiada, konczy sie komunikatem zamiast "aktualne"
+
+[umc308]
+historia_sha256=3eba9d69e4ffebaaafb7fa28ecc325c727df00c3297d18122422e3b81cd56023
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 17:46:32
+plik=system/umc308_20261007174632.love
+rozmiar=2449298
+sha256=59c080e7943467cdab25424dd230bad56cf56a1a5f91bd4c05963a40001ba0a8
+zmiany=uprawnienia programow: program prosi w paczce, zgode daje uzytkownik; nowy program MENEDZER i komenda uprawnienia
+
+[umc308]
+historia_sha256=452441dbb8f82400974d362490bc211dc07438333ed3af50cce087f53387e345
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 18:29:04
+plik=system/umc308_20261007182904.love
+rozmiar=2458990
+sha256=05511f782ea0aad949ed43b1d5407fd691327f47e6bc748118a19b2ff5538961
+zmiany=programy systemowe (menedzer, panel, pliki) maja minimum uprawnien, ktorego nie da sie odebrac; MENEDZER napisany od nowa
+
+[umc308]
+historia_sha256=dc07f231eae4b1603349c82469c4a6826718bb0a9d598483774fe3ce57caf85c
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 19:07:40
+plik=system/umc308_20261007190740.love
+rozmiar=2468675
+sha256=cb296031cefed6c0ccb3a64bc77c5882c27ed196cd72452e325a1eb4fb9ddcd0
+zmiany=programy systemowe (menedzer, panel, pliki) maja minimum uprawnien, ktorego nie da sie odebrac; MENEDZER napisany od nowa
+
+[umc308]
+historia_sha256=dc07f231eae4b1603349c82469c4a6826718bb0a9d598483774fe3ce57caf85c
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 21:38:51
+plik=system/umc308_20261007213851.love
+rozmiar=2454386
+sha256=2ddf043f76f571c1bd1d9222a923aab833e992857d51baabd0ff644dd89e2f28
+zmiany=programy systemowe (menedzer, panel, pliki) maja minimum uprawnien, ktorego nie da sie odebrac; MENEDZER napisany od nowa
+
+[umc308]
+historia_sha256=dc07f231eae4b1603349c82469c4a6826718bb0a9d598483774fe3ce57caf85c
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 21:51:31
+plik=system/umc308_20261007215131.love
+rozmiar=2454793
+sha256=058e4bf8f967adfb836a9282ecd8e768e17e2f16cee1416f4dab8504792f1913
+zmiany=programy systemowe (menedzer, panel, pliki) maja minimum uprawnien, ktorego nie da sie odebrac; MENEDZER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-07 22:52:43
+plik=system/umc308_20261007225243.love
+rozmiar=2489546
+sha256=117cc9cde252d1fe0e26fea4b4314132ea4a0638ef1af33b1f071df369210585
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 03:23:53
+plik=system/umc308_20261008032353.love
+rozmiar=2514060
+sha256=e26dad54f76a2964e17ff16d167c76fa43ef7542d7691b0bcd8e9246d303d890
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 03:56:06
+plik=system/umc308_20261008035606.love
+rozmiar=2541517
+sha256=cd3c8c95f43c83ae0994df7a4cc7c65e0d0aa9faec0e33912d8965f5b9c0d688
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 13:25:50
+plik=system/umc308_20261008132550.love
+rozmiar=2542366
+sha256=b2a1c0b732d6cd27b664f83e38493567cd941b1e9179e5f92bf467e32c6698c2
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 14:39:50
+plik=system/umc308_20261008143950.love
+rozmiar=2551640
+sha256=1ae76796c6c0b8ff29cc88836609f46fb7ed85e6c54257fa832c7ae333d844e7
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 16:17:24
+plik=system/umc308_20261008161724.love
+rozmiar=2594033
+sha256=ca94ccf90118b76d2814d9ceb423cf1b4345131ddfda454d83bba6bf79f84061
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=4351eedd092bc01c85791f9b92e766ab1776057cb42905463fbf42c77d192ffd
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 16:31:04
+plik=system/umc308_20261008163104.love
+rozmiar=2597182
+sha256=4b18e2b65d5b728c8fe93dcb76479188af664475c8c1f368b66167579f4d9091
+zmiany=repozytoria i tworcy przedstawiaja sie nazwa, opisem i ikona; pobieranie melduje postep; CHILIUPDATER napisany od nowa
+
+[umc308]
+historia_sha256=6525983c70e2a9529ba112c5bf1dd4fa8d5c042cedec5881d6b976559cbe6dc4
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-08 21:10:13
+plik=system/umc308_20261008211013.love
+rozmiar=2618746
+sha256=160b9f4c7aba0ca3785049c919af6b99f2ff40b97d390458133fd48ee4ea5fbc
+zmiany=PANEL napisany od nowa; piaskownica wystawia Wi-Fi i Bluetooth, siec w tle, odswiezanie sterownikow zakresowe
+
+[umc308]
+historia_sha256=fc8d3d50aaaf1988893526bbb40f6db2c5806ae8ba5aec88368416bc060e11e9
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 03:17:26
+plik=system/umc308_20261009031726.love
+rozmiar=2701676
+sha256=567f81a4d79caac34977d648325a250106bb2ebd464f71094eb46a4fa249624d
+zmiany=kolejka sieciowa szybsza ok. 2,5x: dwa roboty, paczki zlecen jednym curl-em, limit zlecen na program
+
+[umc308]
+historia_sha256=fc8d3d50aaaf1988893526bbb40f6db2c5806ae8ba5aec88368416bc060e11e9
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 08:13:00
+plik=system/umc308_20261009081300.love
+rozmiar=2710860
+sha256=1ca1f45820805c02cf007ad01a8fb9baa8806e6c7b39ba84499e2c98a92b4c64
+zmiany=kolejka sieciowa szybsza ok. 2,5x: dwa roboty, paczki zlecen jednym curl-em, limit zlecen na program
+
+[umc308]
+historia_sha256=fc8d3d50aaaf1988893526bbb40f6db2c5806ae8ba5aec88368416bc060e11e9
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 09:15:45
+plik=system/umc308_20261009091545.love
+rozmiar=2724903
+sha256=dc9c3c9ecc4b56fcef0665df17dd9c6fae4a943867b7345169eb3f1c16b1bc91
+zmiany=kolejka sieciowa szybsza ok. 2,5x: dwa roboty, paczki zlecen jednym curl-em, limit zlecen na program
+
+[umc308]
+historia_sha256=d572d73f1907d265579964736158f2db4fab1ad9264586a702051b0fbb3f5a79
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 16:09:20
+plik=system/umc308_20261009160920.love
+rozmiar=2811903
+sha256=61114606d6945b4d25f0f9eb70b92028b86f2bd04bf7d7db0e3bb1b550623935
+zmiany=maszyna dekoduje WebP i ma wspolny schowek dla programow
+
+[umc308]
+historia_sha256=d572d73f1907d265579964736158f2db4fab1ad9264586a702051b0fbb3f5a79
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 18:54:07
+plik=system/umc308_20261009185407.love
+rozmiar=2824775
+sha256=90e152951504ad36637c7ae739ea95dc9e4821d74152afda877c52c0ac6476b8
+zmiany=maszyna dekoduje WebP i ma wspolny schowek dla programow
+
+[umc308]
+historia_sha256=d572d73f1907d265579964736158f2db4fab1ad9264586a702051b0fbb3f5a79
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 19:20:32
+plik=system/umc308_20261009192032.love
+rozmiar=2826983
+sha256=6cca7aa37f34ba90f1a28c86341fe3c5f14a968da60e8350a52472ff3c59276b
+zmiany=maszyna dekoduje WebP i ma wspolny schowek dla programow
+
+[umc308]
+historia_sha256=d572d73f1907d265579964736158f2db4fab1ad9264586a702051b0fbb3f5a79
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 20:53:41
+plik=system/umc308_20261009205341.love
+rozmiar=2932630
+sha256=b688c3daeefdbe87d248807c1d78c86081226f90030a00bd79bd0c68c4075603
+zmiany=maszyna dekoduje WebP i ma wspolny schowek dla programow
+
+[umc308]
+historia_sha256=d572d73f1907d265579964736158f2db4fab1ad9264586a702051b0fbb3f5a79
+historia=umc308/zmiany.txt
+wersja=v24
+zbudowano=2026-10-09 22:18:57
+plik=system/umc308_20261009221857.love
+rozmiar=2979612
+sha256=4920570c9da85161139255e788896ce7cc97ab72ea220386d52a6358507bf9fe
+zmiany=maszyna dekoduje WebP i ma wspolny schowek dla programow
+# podpis-ed25519=e88dffc3e11de0ea33b0c88c49c00988bcbf83d8f23dfc23402b2e9ddae8178c:874fdc295f4df431b3b858fb250bf19054011e1fef5c98b57ac1488a31b2ea550ada053e14ff489071bdaac535483511383c0f37447055c2ebb92f434ae4ea0c
