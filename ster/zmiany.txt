@@ -1,0 +1,14 @@
+# STER - co sie zmienilo. Najnowszy wpis na gorze.
+
+2026-10-14  1.1: Swatka
+  - nowy modul Swatka (SWATKA.md): stan, trasy z licznikami, ostatnie bledy, sprawdzenie i przeladowanie tras, limity, porty
+  - latarnia, skrzynka, tablica: tryb "za Swatka" (PORT_SWATKA) i bez wlasnego portu (PORT_API=0); wiersz Dostep w stanie
+  - sonda uslugi bez wlasnego portu pyta przez Swatke (curl --haproxy-protocol), swatka_proxy.py w plikach wdrozenia
+
+2026-10-13  1.0: pierwsza wersja
+  - serwery SSH z listy maszyny (klucz maszyny albo haslo w oknie maszyny), wiele profili
+  - pulpit: procesor, pamiec, dysk, siec, procesy, porty; odswiezanie co 5/10/30/60 s albo recznie
+  - uslugi: stan, uruchom / zatrzymaj (z wylaczeniem wpisow w cronie) / restart, dzienniki, pelny dziennik
+  - ustawienia uslug (JSON i env) z kopia .przed-ster; wdrozenie pliku: wysylka .nowy, suma, skladnia, podmiana
+  - moduly: latarnia, skrzynka czatu, serwer tablicy; wlaczanie, usuwanie, dogrywanie z pliku .smod z podpisem tworcy
+  - konsola pojedynczych polecen, dziennik czynnosci

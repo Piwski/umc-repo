@@ -1,0 +1,19 @@
+# CHILIUPDATER - co sie zmienilo. Najnowszy wpis na gorze.
+# Pierwsza linie wpisu przepisz do `zmiany=` w spis.txt repozytorium.
+
+2026-10-07  ekran od nowa: ekran stanu, karta programu, pasek boczny z ikona, prawdziwy stan repozytoriow
+            ekran stanu z jednym zdaniem i jednym glownym przyciskiem; listy z paskiem bocznym (ikona programu,
+            zastepnik w kolorze z nazwy); ENTER otwiera karte z czynnosciami, strzalki + ENTER + ESC wystarcza
+            repozytorium, ktore milczy, to "nie odpowiada" (z powodem), a jego programy "nie sprawdzono" -
+            "wszystko aktualne" tylko, gdy odpowiedzialy wszystkie; stan zostaje na ekranie
+            pyta tylko przy ryzyku (brak podpisu, spolecznosc, inny tworca, cofanie); ESC zawsze anuluje calosc
+            pasek postepu w bajtach, komunikaty w kolejce, raport z pelnym powodem bledu, kolejka pobran
+            ekran WERSJE (cofanie i odpinanie), karta repozytorium i tworcy (nazwa pewna / "wg repo"), OPCJE
+            szukanie i przewijanie nie pytaja maszyny; samo sprawdza po starcie, gdy lista jest stara
+2026-10-07  repozytorium, ktore nie odpowiada, konczy sprawdzanie oknem "REPOZYTORIUM NIE ODPOWIADA"
+            (z data starej listy) zamiast zielonego "wszystko aktualne"
+2026-10-02  zakladki SYSTEM i TWORCY, szczegoly z historia zmian (I), szukanie w katalogu (/),
+            raport po "Aktualizuj wszystko" (P ponawia), odinstalowanie (DEL), wybor wersji (W),
+            postep z rozmiarem, sprawdzanie miejsca przed pobraniem, repozytorium z portu/pendrive'a
+2026-10-02  pozycja SYSTEM UMC-308: aktualizacja calej maszyny z repozytorium (system.txt)
+2026-09-24  pierwsze wydanie: sprawdzanie repozytoriow, aktualizacja, wycofanie, dziennik
